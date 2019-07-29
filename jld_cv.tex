@@ -1,0 +1,215 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%                        %%
+%%   John L. Darcy's CV   %%
+%%                        %%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+% Preamble:
+  \documentclass{article} 
+  \usepackage[margin=15mm]{geometry} % 25 mm margins all around
+  \usepackage{hyperref} % for hyperlinks
+  \usepackage{fontawesome} % for some symbols
+  \usepackage{multicol} % for multiple columns of text
+  \usepackage{graphicx} % for pdf figures
+  \usepackage{changepage} % for the adjustwidth environment
+  \usepackage{enumitem} % makes bulleted lists
+  \usepackage[utf8]{inputenc} % for utf8 characters like ʻokina
+  \setlength\parindent{0pt} % no indentation allowed
+  %
+  \setlength{\multicolsep}{0pt}% remove vertical space for multiple columns
+  \hypersetup{
+    colorlinks   = true, %Colours links instead of ugly boxes
+    urlcolor     = blue, %Colour for external hyperlinks
+    linkcolor    = blue, %Colour of internal links
+    citecolor    = red %Colour of citations
+  }
+  \usepackage[backend=biber, style=numeric-comp, maxbibnames=99, sorting=none, firstinits, terseinits]{biblatex}
+  \renewbibmacro{in:}{} % removes "in:" before journal names
+  \addbibresource{allrefs.bib}
+  %
+  % The following is a giant mess that makes the bibliography align with bulleted lists
+  % (and gives each bib entry more room.... why was this so damn hard???)
+  \defbibenvironment{bibliography}{
+    \list{
+      %% this is executed 
+      \printfield[labelnumberwidth]{labelnumber}%
+      \setlength{\labelwidth}{\labelnumberwidth}%
+    }{
+      \setlength{\leftmargin}{3mm}%
+      \addtolength{\leftmargin}{\labelsep}%
+      \setlength{\itemsep}{\bibitemsep}%
+      \setlength{\parsep}{\bibparsep}%
+    }
+  }{\endlist}{\item}
+  %
+  % This should make my name bold in all the citations, AND remove commas
+  % between last and first inits. "Darcy, JL" -> "Darcy JL"
+  % by Zarko:
+  % https://tex.stackexchange.com/questions/33330/make-one-authors-name-bold-every-time-it-shows-up-in-the-bibliography
+  \usepackage{xstring}
+  \usepackage{etoolbox}
+  \newboolean{bold}
+  \newcommand{\makeauthorsbold}[1]{%
+    \DeclareNameFormat{author}{%
+    \setboolean{bold}{false}%
+      \renewcommand{\do}[1]{\expandafter\ifstrequal\expandafter{\namepartfamily}{####1}{\setboolean{bold}{true}}{}}%
+      \docsvlist{#1}%
+      \ifthenelse{\value{listcount}=1}
+      {%
+        {\expandafter\ifthenelse{\boolean{bold}}{\mkbibbold{\namepartfamily\addspace \namepartgiveni}}{\namepartfamily\addspace \namepartgiveni}}%
+      }{\ifnumless{\value{listcount}}{\value{liststop}}
+        {\expandafter\ifthenelse{\boolean{bold}}{\mkbibbold{\addspace \namepartfamily\addspace \namepartgiveni}}{\addspace \namepartfamily\addspace \namepartgiveni}}%
+        {\expandafter\ifthenelse{\boolean{bold}}{\mkbibbold{\addspace \namepartfamily\addspace \namepartgiveni\isdot}}{\addspace \namepartfamily\addspace \namepartgiveni\isdot}}%
+        }
+      \ifthenelse{\value{listcount}<\value{liststop}}
+      {\addcomma\space}{}
+    }
+  }
+  \makeauthorsbold{Darcy}
+  %
+  % this puts my info at the bottom of the page next to the page number, so multiple sheets don't get mixed up
+  \renewcommand{\thepage}{John L. Darcy~--~\arabic{page}}
+  %
+\begin{document}
+
+%\centerline{\Huge\center\textbf{John L. Darcy, PhD}}
+{\Huge \textbf{John L. Darcy, PhD}}
+\hfill
+\emph{Curriculum Vitae}
+\vspace{1mm}
+\hrule
+\vspace{2mm}
+\begin{adjustwidth}{5mm}{}
+  \begin{multicols}{3}
+    \faPhone \space +1 (303) 887 - 0477\\
+    \faEnvelope \space \href{mailto:darcyj@colorado.edu}{darcyj@colorado.edu}\\
+    \faGlobe \space \href{http://www.jldarcy.tk/}{jldarcy.tk}\\
+    \faGithub \space \href{https://github.com/darcyj}{github.com/darcyj}\\
+    \faInstagram/\faTwitter \space \href{https://www.instagram.com/jld.adventures/}{@JohnLDarcy}\\
+    \faMortarBoard \space \href{https://scholar.google.com/citations?user=z24F3PYAAAAJ}{Google Scholar link}
+  \end{multicols}
+\end{adjustwidth}
+
+%
+\vspace{2mm}
+%
+{\large\textbf{Research Emphasis}}
+\begin{adjustwidth}{5mm}{}
+  In my research, I use mathematical models to understand how microbial communities change over time and space. My research has spanned several different study systems, including the human microbiome, mouse microbiome, native Hawaiian plants, and soil microbes living in extreme environments across the world. My most recent work at CU Anschutz uses a mathematical model I developed to ask to what extent microbes are more likely to join a microbiome if they already have a close relative living there.
+\end{adjustwidth}
+%
+\vspace{2mm}
+%
+{\large  \textbf{Post-Doctoral Training}}
+\begin{itemize}[noitemsep,topsep=0pt, leftmargin=5mm]
+  \item US NIH NLM Computational Biology Post-Doctoral Fellowship at University of Colorado Anschutz Medical Campus, working with Catherine Lozupone. \mbox{Fall 2018 - present.}
+  \item Post-doctoral researcher at University of Hawai'i at Mānoa, with Anthony Amend. \mbox{Fall 2017 - present.}
+\end{itemize}
+%
+\vspace{2mm}
+{\large  \textbf{Education}}
+\begin{itemize}[noitemsep,topsep=0pt, leftmargin=5mm]
+  \item PhD in Ecology and Evolutionary Biology from University of Colorado, Boulder (2017). Partly done at Duke University. Dissertation title: Biogeographic and biogeochemical drivers of microbial community assembly. Advised by Steve Schmidt (Boulder) and Diana Nemergut (Duke). 
+  \item BA in Molecular, Cellular, and Developmental Biology (2010).
+\end{itemize}
+%
+\vspace{2mm}
+{\large  \textbf{First-Author Publications}}\space\emph{(incl.\ equal contribution of first two authors)}
+\vspace{-1em}\vspace{1mm}
+\begingroup
+	\setlength\bibitemsep{0pt}
+	\nocite{*}
+	\printbibliography[keyword=firstauthor, heading=none]
+\endgroup
+%
+\vspace{-1em}\vspace{3mm}
+{\large  \textbf{Co-Author Publications}}
+\vspace{-1em}\vspace{1mm}
+\begingroup
+  \setlength\bibitemsep{0pt}
+  \nocite{*}
+  \printbibliography[keyword=coauthor, heading=none]
+\endgroup
+%
+\vspace{-1em}\vspace{3mm}
+{\large  \textbf{Publication Metrics}}
+\begin{adjustwidth}{5mm}{}
+  \begin{multicols}{2}
+    \begin{itemize}[noitemsep,topsep=0pt, leftmargin=0mm]
+      \item 38 published papers
+      \item 926 citations (as of July 2019)
+      \item h-index = 12
+      \item i10-index = 15
+    \end{itemize}
+  \end{multicols}
+\end{adjustwidth}
+\vspace{3mm}
+{\large  \textbf{Mentorship}}
+\begin{itemize}[noitemsep,topsep=0pt, leftmargin=5mm]
+  \item Mentored Marshall M, an undergraduate student as part of CU Anschutz Summer Bioinformatics Fellowship. I helped student develop a computer program that analyzes microbial communities in a competitive-lottery framework. Student is preparing software for pulic release, and will write a release note for publication.
+  \item Lead a team at UH to develop and test a 3D-printed air sampler, to be used in large-scale sampling of air microbiota on the Hawaiian Islands. Team included 2 PhD students and 3 undergrads.
+  \item Advised Solon A’s honors thesis project in 2016. Student used Illumina sequencing to compare microbial communities from multiple sites in the Chilean Atacama Desert, and this work is now published in Microbial Ecology (C17). Student was awarded summa cum laude.
+  \item Advised Weibern C’s honors thesis project in 2015. Student sequenced genomes of 8 Janthinobacterium strains and constructed a robust phylogeny of the species. Student was awarded magna cum laude.
+  \item Advised Schubert ZR’s honors thesis project in 2014. Student made and compared mathematical models of water availability in soil undergoing freeze-thaw cycling. Student was awarded summa cum laude.
+  \item Mentored three undergraduate students from 2012 to 2014: Todd BT, Schrepel WA, and Choi RB. All three performed and helped design experiments. Todd BT is a co-author on several publications.
+  \item Mentored two local middle school students, who completed a science fair project on E. coli transgenics. They won first prize in their school science fair competition, and went on to compete at state level.
+\end{itemize}
+\vspace{3mm}
+{\large  \textbf{Teaching}}
+\begin{itemize}[noitemsep,topsep=0pt, leftmargin=5mm]
+  \item Started “Aloha R”, a computational biology workshop for graduate students at UH (Spring 2018). Weekly meetings focused on core programming skills, since many students view R as a “copy and paste” analytical platform rather than a robust programming environment. I also emphasized code documentation and repeatability.
+  \item Guest lecturer for Ecology of Microbial Symbiosis (Spring 2018). Taught 2 lecture classes reviewing bioinformatics approaches used by microbial symbiosis researchers.
+  \item Guest lecturer for Microbial Ecology (Fall 2016) Taught 3 lecture classes introducing students to modern molecular and bioinformatic approaches to microbial ecology.
+  \item Ecology Lab TA (Fall 2013) Taught ecological theory and field methods, as well as basic statistics and computer programming in R. Three-hour periods with 20 students, 2x/week.
+  \item Microbiology lab TA (Spring 2012) Taught basic microbiological technique, and modern molecular methods.
+Also wrote weekly quizzes and gave recitation. Two-hour periods with 18 students, 4x/week.
+\end{itemize}
+\vspace{3mm}
+{\large  \textbf{Funding and Awards}}
+\begin{itemize}[noitemsep,topsep=0pt, leftmargin=5mm]
+  \item NIH NLM Computational Biology Postdoctoral Fellowship (present position).
+  \item 2019 Front Range Microbiome Symposium award for best poster presentation. \$100.
+  \item International Geological Society travel grant. Kyoto, Japan, December 2017. ¥100,000.
+  \item Mycological Society of America travel award. San Juan, Puerto Rico, December 2017. \$2,500.
+  \item SCAR XIIth International Biology Symposium Travel Grant. KU Leuven, December 2016. \$2,500.
+  \item Remote (control) sensing: using a drone for environmental science. CU EBIO grant, April 2014. \$992.
+  \item High-throughput climate change modeling from the gene’s perspective. Dean’s Graduate Student Research Grant Award, CU Boulder, October 2014. \$5,000.
+\end{itemize}
+\vspace{3mm}
+{\large  \textbf{Presentations and Posters}}
+\begin{itemize}[noitemsep,topsep=0pt, leftmargin=5mm]
+  \item A phylogenetic model for the arrival of species into microbial communities (Invited talk, 2019). NIH NLM Computational Biology Training Conference. Indianapolis, Indiana.
+  \item Specificity analysis of microbiome data: All the math (Chalk talk, 2019). CU Anschutz Microbiome group chalk talk.
+  \item Monte Carlo analysis of Foliar Fungal Endophytes reveals habitat specificity to elevation, precipitation, and host plants (Seminar, 2019). Hawaii Ecosystems Conferencein  Hilo, Hawaii.
+  \item A phylogenetic model for the arrival of species into microbial communities (Poster, 2019). Front Range Microbiome Symposium in Fort Collins, Colorado.
+  \item Cryoconite holes are microbial islands (Seminar, 2018). International Glaciological Society meeting in Kyoto, Japan.
+  \item Island biogeography of glacial microbiota in Antarctica’s Taylor Valley and around the world (Seminar, 2017). Scientific Committee on Antarctic Research Biology meeting in Leuven, Belgium.
+  \item Using Adobe Illustrator to make scienetific figures (Seminar, 2016). CU Boulder EBIO dept. Brown-bag talk.
+  \item Phylogenetic and biogeochemical characterization of a debris-covered glacier (Poster, 2013). ASM General Meeting 2013 in Denver CO.
+  \item Identification and characterization of microbial communities in high-elevation snowpacks (Poster, 2013). LTER meeting 2013 in Estes Park, CO.
+  \item Comparing spatial distributions of microorganisms using minimal genetic distance. ASM General Meeting 2012 in San Francisco, CA.
+\end{itemize}
+\vspace{3mm}
+{\large  \textbf{Programming Languages}}
+\\\begin{tabular}{c c c}
+  Language & Proficiency & Example\\
+  R & (expert) & \href{https://github.com/darcyj/pd_model}{github.com/darcyj/pd\_model}\\
+  C\# & (advanced) & \href{https://github.com/darcyj/XtendR_Csharp}{github.com/darcyj/XtendR\_Csharp}\\
+  Bash shell & (advanced) & \href{https://github.com/darcyj/fasta-scripts}{github.com/darcyj/fasta-scripts}\\
+  \LaTeX & (intermediate) & \href{}{}\\
+
+\end{tabular}
+\\
+\\
+\begin{itemize}[noitemsep,topsep=0pt, leftmargin=5mm]
+  \item R (expert)
+  \item Python (advanced)
+  \item C\# (advanced)
+  \item Bash shell (advanced)
+  \item \LaTeX (intermediate) - this document. 
+  \item HTML + CSS (beginner - see my website for example: \url{jldarcy.tk})
+  \item C (beginner)
+\end{itemize}
+
+
+\end{document}

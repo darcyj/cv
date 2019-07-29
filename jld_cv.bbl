@@ -1,0 +1,1965 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.9 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{Darcy685644}{article}{}
+      \name{author}{6}{}{%
+        {{hash=a552069d6dbaac22245e48e43900c9dc}{%
+           family={Darcy},
+           familyi={D\bibinitperiod},
+           given={John\bibnamedelima L.},
+           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=3777022be89393525c5ba819cfb5f35c}{%
+           family={Washburne},
+           familyi={W\bibinitperiod},
+           given={Alex\bibnamedelima D.},
+           giveni={A\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=cc2d68f5dd9863101d27adc609fb5531}{%
+           family={Robeson},
+           familyi={R\bibinitperiod},
+           given={Michael\bibnamedelima S.},
+           giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=d009c54e9cbef97c1fc46800a43bf36a}{%
+           family={Prest},
+           familyi={P\bibinitperiod},
+           given={Tiffany},
+           giveni={T\bibinitperiod}}}%
+        {{hash=136f09072d0d272d09bbc70de8177a5d}{%
+           family={Schmidt},
+           familyi={S\bibinitperiod},
+           given={Steven\bibnamedelima K.},
+           giveni={S\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=653f826dbd7285560fba5e641ea91e75}{%
+           family={Lozupone},
+           familyi={L\bibinitperiod},
+           given={Catherine\bibnamedelima A.},
+           giveni={C\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Cold Spring Harbor Laboratory}%
+      }
+      \strng{namehash}{75f1436779ce8acf2a66b91ca34b8009}
+      \strng{fullhash}{dd866c37b70bfe08aa6301a52799bb43}
+      \strng{bibnamehash}{dd866c37b70bfe08aa6301a52799bb43}
+      \strng{authorbibnamehash}{dd866c37b70bfe08aa6301a52799bb43}
+      \strng{authornamehash}{75f1436779ce8acf2a66b91ca34b8009}
+      \strng{authorfullhash}{dd866c37b70bfe08aa6301a52799bb43}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{bioRxiv}
+      \field{title}{A phylogenetic model for the arrival of species into microbial communities and application to studies of the human microbiome (preprint)}
+      \field{year}{2019}
+      \keyw{firstauthor}
+    \endentry
+    \entry{Darcy640029}{article}{}
+      \name{author}{6}{}{%
+        {{hash=a552069d6dbaac22245e48e43900c9dc}{%
+           family={Darcy},
+           familyi={D\bibinitperiod},
+           given={John\bibnamedelima L.},
+           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=322314dd5281ca01c62e576003e29a89}{%
+           family={Cobian},
+           familyi={C\bibinitperiod},
+           given={Gerald\bibnamedelima M.},
+           giveni={G\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=66d3b8d837ddd7ad7eabac875f8749eb}{%
+           family={Swift},
+           familyi={S\bibinitperiod},
+           given={Sean\bibnamedelimb O.\bibnamedelimi I.},
+           giveni={S\bibinitperiod\bibinitdelim O\bibinitperiod\bibinitdelim I\bibinitperiod}}}%
+        {{hash=a05f154d54598b0c5957d868ef309af1}{%
+           family={Zahn},
+           familyi={Z\bibinitperiod},
+           given={Geoffrey\bibnamedelima L.},
+           giveni={G\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=7b1cfa92ed7b6c57f857b33b3794516f}{%
+           family={Perry},
+           familyi={P\bibinitperiod},
+           given={Brian\bibnamedelima A.},
+           giveni={B\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=a8160c59487b0afc64dde1bc9a1e750d}{%
+           family={Amend},
+           familyi={A\bibinitperiod},
+           given={Anthony\bibnamedelima S.},
+           giveni={A\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Cold Spring Harbor Laboratory}%
+      }
+      \strng{namehash}{75f1436779ce8acf2a66b91ca34b8009}
+      \strng{fullhash}{d2289e5526e648997ff7a1fbbd536771}
+      \strng{bibnamehash}{d2289e5526e648997ff7a1fbbd536771}
+      \strng{authorbibnamehash}{d2289e5526e648997ff7a1fbbd536771}
+      \strng{authornamehash}{75f1436779ce8acf2a66b91ca34b8009}
+      \strng{authorfullhash}{d2289e5526e648997ff7a1fbbd536771}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{bioRxiv}
+      \field{title}{Fungal communities living within leaves of native Hawaiian dicots are structured by landscape-scale variables as well as by host plants (preprint)}
+      \field{year}{2019}
+      \keyw{firstauthor}
+    \endentry
+    \entry{Darcy2018a}{article}{}
+      \name{author}{5}{}{%
+        {{hash=a552069d6dbaac22245e48e43900c9dc}{%
+           family={Darcy},
+           familyi={D\bibinitperiod},
+           given={John\bibnamedelima L.},
+           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=c422572d6727097d8a3b080f0d92d99f}{%
+           family={Gendron},
+           familyi={G\bibinitperiod},
+           given={Eli\bibnamedelimb M.\bibnamedelimi S.},
+           giveni={E\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=24f2343fccb7c6488ad033cfc8a466d3}{%
+           family={Sommers},
+           familyi={S\bibinitperiod},
+           given={Pacifica},
+           giveni={P\bibinitperiod}}}%
+        {{hash=1e071be8b3efb688d7e1aa45eb9f3b90}{%
+           family={Porazinska},
+           familyi={P\bibinitperiod},
+           given={Dorota\bibnamedelima L.},
+           giveni={D\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=136f09072d0d272d09bbc70de8177a5d}{%
+           family={Schmidt},
+           familyi={S\bibinitperiod},
+           given={Steven\bibnamedelima K.},
+           giveni={S\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \strng{namehash}{75f1436779ce8acf2a66b91ca34b8009}
+      \strng{fullhash}{c9edfc3872d8902857e56360b855cf8d}
+      \strng{bibnamehash}{c9edfc3872d8902857e56360b855cf8d}
+      \strng{authorbibnamehash}{c9edfc3872d8902857e56360b855cf8d}
+      \strng{authornamehash}{75f1436779ce8acf2a66b91ca34b8009}
+      \strng{authorfullhash}{c9edfc3872d8902857e56360b855cf8d}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Frontiers in Ecology and Evolution}
+      \field{title}{{Island Biogeography of Cryoconite Hole Bacteria in Antarctica's Taylor Valley and Around the World}}
+      \field{year}{2018}
+      \keyw{firstauthor}
+    \endentry
+    \entry{Darcy2018}{article}{}
+      \name{author}{6}{}{%
+        {{hash=a552069d6dbaac22245e48e43900c9dc}{%
+           family={Darcy},
+           familyi={D\bibinitperiod},
+           given={John\bibnamedelima L.},
+           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=136f09072d0d272d09bbc70de8177a5d}{%
+           family={Schmidt},
+           familyi={S\bibinitperiod},
+           given={Steven\bibnamedelima K.},
+           giveni={S\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=76aa728eff34d773848c4b4a1bcf1de1}{%
+           family={Knelman},
+           familyi={K\bibinitperiod},
+           given={Joey\bibnamedelima E.},
+           giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=30dda08e3f7a450918ad75d9f8d55e2e}{%
+           family={Cleveland},
+           familyi={C\bibinitperiod},
+           given={Cory\bibnamedelima C.},
+           giveni={C\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=b2d9fddfa4f51964c2866d4c7902d1f3}{%
+           family={Castle},
+           familyi={C\bibinitperiod},
+           given={Sarah\bibnamedelima C.},
+           giveni={S\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=33b613943a0a0b184a3088ff787e5459}{%
+           family={Nemergut},
+           familyi={N\bibinitperiod},
+           given={Diana\bibnamedelima R.},
+           giveni={D\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \strng{namehash}{75f1436779ce8acf2a66b91ca34b8009}
+      \strng{fullhash}{bc0b15f1cc146a775d9d61992bb7eeb9}
+      \strng{bibnamehash}{bc0b15f1cc146a775d9d61992bb7eeb9}
+      \strng{authorbibnamehash}{bc0b15f1cc146a775d9d61992bb7eeb9}
+      \strng{authornamehash}{75f1436779ce8acf2a66b91ca34b8009}
+      \strng{authorfullhash}{bc0b15f1cc146a775d9d61992bb7eeb9}
+      \field{sortinit}{4}
+      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Science Advances}
+      \field{title}{{Phosphorus, not nitrogen, limits plants and microbial primary producers following glacial retreat}}
+      \field{year}{2018}
+      \keyw{firstauthor}
+    \endentry
+    \entry{Darcy2017}{article}{}
+      \name{author}{4}{}{%
+        {{hash=a552069d6dbaac22245e48e43900c9dc}{%
+           family={Darcy},
+           familyi={D\bibinitperiod},
+           given={John\bibnamedelima L.},
+           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=69a617c0830dbff0a485ac4eecc600ca}{%
+           family={King},
+           familyi={K\bibinitperiod},
+           given={Andrew\bibnamedelima J.},
+           giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=1dc6f6387dd6c18aae1f7a323d8b4160}{%
+           family={Gendron},
+           familyi={G\bibinitperiod},
+           given={Eli\bibnamedelima M.S.},
+           giveni={E\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=136f09072d0d272d09bbc70de8177a5d}{%
+           family={Schmidt},
+           familyi={S\bibinitperiod},
+           given={Steven\bibnamedelima K.},
+           giveni={S\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \strng{namehash}{75f1436779ce8acf2a66b91ca34b8009}
+      \strng{fullhash}{93035f8ca693b84f8230b857c22e0caa}
+      \strng{bibnamehash}{93035f8ca693b84f8230b857c22e0caa}
+      \strng{authorbibnamehash}{93035f8ca693b84f8230b857c22e0caa}
+      \strng{authornamehash}{75f1436779ce8acf2a66b91ca34b8009}
+      \strng{authorfullhash}{93035f8ca693b84f8230b857c22e0caa}
+      \field{sortinit}{5}
+      \field{sortinithash}{3c19c3776b658b3558e9e2e4840c01e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{FEMS microbiology ecology}
+      \field{title}{{Spatial autocorrelation of microbial communities atop a debris-covered glacier is evidence of a supraglacial chronosequence}}
+      \field{year}{2017}
+      \keyw{firstauthor}
+    \endentry
+    \entry{Darcy2016}{article}{}
+      \name{author}{2}{}{%
+        {{hash=61a50045d4d607e8b5cd67c2f17728a8}{%
+           family={Darcy},
+           familyi={D\bibinitperiod},
+           given={J.L.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=218b2b88d2be1f2c058b9ab0891cfa3c}{%
+           family={Schmidt},
+           familyi={S\bibinitperiod},
+           given={S.K.},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{b5407b6bf80cc742efeaac3c15bd29f3}
+      \strng{fullhash}{b5407b6bf80cc742efeaac3c15bd29f3}
+      \strng{bibnamehash}{b5407b6bf80cc742efeaac3c15bd29f3}
+      \strng{authorbibnamehash}{b5407b6bf80cc742efeaac3c15bd29f3}
+      \strng{authornamehash}{b5407b6bf80cc742efeaac3c15bd29f3}
+      \strng{authorfullhash}{b5407b6bf80cc742efeaac3c15bd29f3}
+      \field{sortinit}{6}
+      \field{sortinithash}{57e57fb8451e7fcfa45d1e069f6d3136}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Soil Biology and Biochemistry}
+      \field{title}{{Nutrient limitation of microbial phototrophs on a debris-covered glacier}}
+      \field{volume}{95}
+      \field{year}{2016}
+      \field{pages}{156\bibrangedash 163}
+      \range{pages}{8}
+      \keyw{firstauthor}
+    \endentry
+    \entry{Schmidt2015a}{article}{}
+      \name{author}{2}{}{%
+        {{hash=c894de6685f2e352c1c173d46d1f02f4}{%
+           family={Schmidt},
+           familyi={S\bibinitperiod},
+           given={S.\bibnamedelimi K.},
+           giveni={S\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=70652b015f048c7052ba57a43e550a3e}{%
+           family={Darcy},
+           familyi={D\bibinitperiod},
+           given={J.\bibnamedelimi L.},
+           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \strng{namehash}{07891b4aae7e35076035b561a7cc1e44}
+      \strng{fullhash}{07891b4aae7e35076035b561a7cc1e44}
+      \strng{bibnamehash}{07891b4aae7e35076035b561a7cc1e44}
+      \strng{authorbibnamehash}{07891b4aae7e35076035b561a7cc1e44}
+      \strng{authornamehash}{07891b4aae7e35076035b561a7cc1e44}
+      \strng{authorfullhash}{07891b4aae7e35076035b561a7cc1e44}
+      \field{sortinit}{7}
+      \field{sortinithash}{c818dd9105a2852444fc9f5e145c294e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Polar Biology}
+      \field{title}{{Phylogeny of ulotrichalean algae from extreme high-altitude and high-latitude ecosystems}}
+      \field{year}{2015}
+      \keyw{firstauthor}
+    \endentry
+    \entry{Darcy2011a}{article}{}
+      \name{author}{5}{}{%
+        {{hash=a552069d6dbaac22245e48e43900c9dc}{%
+           family={Darcy},
+           familyi={D\bibinitperiod},
+           given={John\bibnamedelima L.},
+           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=31bcd6ee6ecba87912ab0bcdec907403}{%
+           family={Lynch},
+           familyi={L\bibinitperiod},
+           given={Ryan\bibnamedelima C.},
+           giveni={R\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=69a617c0830dbff0a485ac4eecc600ca}{%
+           family={King},
+           familyi={K\bibinitperiod},
+           given={Andrew\bibnamedelima J.},
+           giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=cc2d68f5dd9863101d27adc609fb5531}{%
+           family={Robeson},
+           familyi={R\bibinitperiod},
+           given={Michael\bibnamedelima S.},
+           giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=136f09072d0d272d09bbc70de8177a5d}{%
+           family={Schmidt},
+           familyi={S\bibinitperiod},
+           given={Steven\bibnamedelima K.},
+           giveni={S\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \strng{namehash}{75f1436779ce8acf2a66b91ca34b8009}
+      \strng{fullhash}{150fe28d4de12df8838cfed2b28744c9}
+      \strng{bibnamehash}{150fe28d4de12df8838cfed2b28744c9}
+      \strng{authorbibnamehash}{150fe28d4de12df8838cfed2b28744c9}
+      \strng{authornamehash}{75f1436779ce8acf2a66b91ca34b8009}
+      \strng{authorfullhash}{150fe28d4de12df8838cfed2b28744c9}
+      \field{sortinit}{8}
+      \field{sortinithash}{07edf88d4ea82509b9c4b4d13f41c452}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{PLoS ONE}
+      \field{title}{{Global distribution of Polaromonas phylotypes - evidence for a highly successful dispersal capacity}}
+      \field{year}{2011}
+      \keyw{firstauthor}
+    \endentry
+    \entry{Vimercati2019a}{article}{}
+      \name{author}{3}{}{%
+        {{hash=699d679c3f4f75652e99a1f5682eea89}{%
+           family={Vimercati},
+           familyi={V\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod}}}%
+        {{hash=70652b015f048c7052ba57a43e550a3e}{%
+           family={Darcy},
+           familyi={D\bibinitperiod},
+           given={J.\bibnamedelimi L.},
+           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=c894de6685f2e352c1c173d46d1f02f4}{%
+           family={Schmidt},
+           familyi={S\bibinitperiod},
+           given={S.\bibnamedelimi K.},
+           giveni={S\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \strng{namehash}{7244c7cb528d83ca00bce654c4ea6c90}
+      \strng{fullhash}{7244c7cb528d83ca00bce654c4ea6c90}
+      \strng{bibnamehash}{7244c7cb528d83ca00bce654c4ea6c90}
+      \strng{authorbibnamehash}{7244c7cb528d83ca00bce654c4ea6c90}
+      \strng{authornamehash}{7244c7cb528d83ca00bce654c4ea6c90}
+      \strng{authorfullhash}{7244c7cb528d83ca00bce654c4ea6c90}
+      \field{sortinit}{9}
+      \field{sortinithash}{1dd72ab054147731c9d824b49aba0534}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Scientific Reports}
+      \field{number}{10676}
+      \field{title}{The disappearing periglacial ecosystem atop Mt. Kilimanjaro supports both cosmopolitan and endemic microbial communities}
+      \field{volume}{9}
+      \field{year}{2019}
+      \keyw{coauthor}
+    \endentry
+    \entry{Vargas2019}{article}{}
+      \name{author}{6}{}{%
+        {{hash=68d676a69c9b6223ee885f36aa24dc86}{%
+           family={Vargas-Gastélum},
+           familyi={V\bibinithyphendelim G\bibinitperiod},
+           given={Lluvia},
+           giveni={L\bibinitperiod}}}%
+        {{hash=b93a07b6e072af96ac0df8bd8b6571b3}{%
+           family={Chong-Robles},
+           familyi={C\bibinithyphendelim R\bibinitperiod},
+           given={Jennyfers},
+           giveni={J\bibinitperiod}}}%
+        {{hash=a3fac46e07601af840d057bd9005f471}{%
+           family={Lago-Lestón},
+           familyi={L\bibinithyphendelim L\bibinitperiod},
+           given={Asunción},
+           giveni={A\bibinitperiod}}}%
+        {{hash=a552069d6dbaac22245e48e43900c9dc}{%
+           family={Darcy},
+           familyi={D\bibinitperiod},
+           given={John\bibnamedelima L.},
+           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=a8160c59487b0afc64dde1bc9a1e750d}{%
+           family={Amend},
+           familyi={A\bibinitperiod},
+           given={Anthony\bibnamedelima S.},
+           giveni={A\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=a94dfea027e4d9cf7fc765273553e207}{%
+           family={Riquelme},
+           familyi={R\bibinitperiod},
+           given={Meritxell},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{9dd7ee52c44dbf73573e4effae7d731b}
+      \strng{fullhash}{e31efe016a69f083b64b762f95545f61}
+      \strng{bibnamehash}{e31efe016a69f083b64b762f95545f61}
+      \strng{authorbibnamehash}{e31efe016a69f083b64b762f95545f61}
+      \strng{authornamehash}{9dd7ee52c44dbf73573e4effae7d731b}
+      \strng{authorfullhash}{e31efe016a69f083b64b762f95545f61}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Environmental Microbiology}
+      \field{title}{Targeted ITS1 sequencing unravels the mycodiversity of deep-sea sediments from the Gulf of Mexico}
+      \field{year}{2019}
+      \keyw{coauthor}
+    \endentry
+    \entry{Vimercati2019}{article}{}
+      \name{author}{8}{}{%
+        {{hash=06cfeede350d726a4be3c2d18d4dcd02}{%
+           family={Vimercati},
+           familyi={V\bibinitperiod},
+           given={Lara},
+           giveni={L\bibinitperiod}}}%
+        {{hash=540942b3f7eacc91e50afda8d4fa804c}{%
+           family={Solon},
+           familyi={S\bibinitperiod},
+           given={Adam\bibnamedelima J.},
+           giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=c953ecb1e094d9d15bf99a8e98a157fd}{%
+           family={Krinsky},
+           familyi={K\bibinitperiod},
+           given={Alexandra},
+           giveni={A\bibinitperiod}}}%
+        {{hash=d502375234f9fe19ae6b414fcfa6db0a}{%
+           family={Arán},
+           familyi={A\bibinitperiod},
+           given={Pablo},
+           giveni={P\bibinitperiod}}}%
+        {{hash=1e071be8b3efb688d7e1aa45eb9f3b90}{%
+           family={Porazinska},
+           familyi={P\bibinitperiod},
+           given={Dorota\bibnamedelima L.},
+           giveni={D\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=a552069d6dbaac22245e48e43900c9dc}{%
+           family={Darcy},
+           familyi={D\bibinitperiod},
+           given={John\bibnamedelima L.},
+           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=786397ca6ec2dc9390736d36728c766c}{%
+           family={Dorador},
+           familyi={D\bibinitperiod},
+           given={Cristina},
+           giveni={C\bibinitperiod}}}%
+        {{hash=136f09072d0d272d09bbc70de8177a5d}{%
+           family={Schmidt},
+           familyi={S\bibinitperiod},
+           given={Steven\bibnamedelima K.},
+           giveni={S\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Taylor & Francis}%
+      }
+      \strng{namehash}{01f852b0d5d634e79da812d262e26a95}
+      \strng{fullhash}{fb1a2e6e48bcab68b6c346a8daf52bdc}
+      \strng{bibnamehash}{fb1a2e6e48bcab68b6c346a8daf52bdc}
+      \strng{authorbibnamehash}{fb1a2e6e48bcab68b6c346a8daf52bdc}
+      \strng{authornamehash}{01f852b0d5d634e79da812d262e26a95}
+      \strng{authorfullhash}{fb1a2e6e48bcab68b6c346a8daf52bdc}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Arctic, Antarctic, and Alpine Research}
+      \field{number}{1}
+      \field{title}{Nieves penitentes are a new habitat for snow algae in one of the most extreme high-elevation environments on Earth}
+      \field{volume}{51}
+      \field{year}{2019}
+      \field{pages}{190\bibrangedash 200}
+      \range{pages}{11}
+      \keyw{coauthor}
+    \endentry
+    \entry{Tipton2019}{article}{}
+      \name{author}{3}{}{%
+        {{hash=45a38db8159998e459f92a5b44609fa8}{%
+           family={Tipton},
+           familyi={T\bibinitperiod},
+           given={Laura},
+           giveni={L\bibinitperiod}}}%
+        {{hash=a552069d6dbaac22245e48e43900c9dc}{%
+           family={Darcy},
+           familyi={D\bibinitperiod},
+           given={John\bibnamedelima L.},
+           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=5244d72340971e789f8299cccafe2ab2}{%
+           family={Hynson},
+           familyi={H\bibinitperiod},
+           given={Nicole\bibnamedelima A.},
+           giveni={N\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{3e67dc7d8db1744c85445e205881fd05}
+      \strng{fullhash}{3e67dc7d8db1744c85445e205881fd05}
+      \strng{bibnamehash}{3e67dc7d8db1744c85445e205881fd05}
+      \strng{authorbibnamehash}{3e67dc7d8db1744c85445e205881fd05}
+      \strng{authornamehash}{3e67dc7d8db1744c85445e205881fd05}
+      \strng{authorfullhash}{3e67dc7d8db1744c85445e205881fd05}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Frontiers in Microbiology}
+      \field{title}{A Developing Symbiosis: Enabling Cross-Talk Between Ecologists and Microbiome Scientists}
+      \field{volume}{10}
+      \field{year}{2019}
+      \keyw{coauthor}
+    \endentry
+    \entry{Sommers2019}{article}{}
+      \name{author}{12}{}{%
+        {{hash=24f2343fccb7c6488ad033cfc8a466d3}{%
+           family={Sommers},
+           familyi={S\bibinitperiod},
+           given={Pacifica},
+           giveni={P\bibinitperiod}}}%
+        {{hash=a552069d6dbaac22245e48e43900c9dc}{%
+           family={Darcy},
+           familyi={D\bibinitperiod},
+           given={John\bibnamedelima L.},
+           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=1e071be8b3efb688d7e1aa45eb9f3b90}{%
+           family={Porazinska},
+           familyi={P\bibinitperiod},
+           given={Dorota\bibnamedelima L.},
+           giveni={D\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=1dc6f6387dd6c18aae1f7a323d8b4160}{%
+           family={Gendron},
+           familyi={G\bibinitperiod},
+           given={Eli\bibnamedelima M.S.},
+           giveni={E\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=70ae80b3c0e4a678dd40a5f80a2e8cd9}{%
+           family={Fountain},
+           familyi={F\bibinitperiod},
+           given={Andrew\bibnamedelima G.},
+           giveni={A\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=59647a3e6a63aeb66cfc4cfe9eed264d}{%
+           family={Zamora},
+           familyi={Z\bibinitperiod},
+           given={Felix},
+           giveni={F\bibinitperiod}}}%
+        {{hash=32fa9eb763d213228ce3042050cc5178}{%
+           family={Vincent},
+           familyi={V\bibinitperiod},
+           given={Kim},
+           giveni={K\bibinitperiod}}}%
+        {{hash=3d283e8705c3eede668670aa26ffa570}{%
+           family={Cawley},
+           familyi={C\bibinitperiod},
+           given={Kaelin\bibnamedelima M.},
+           giveni={K\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=540942b3f7eacc91e50afda8d4fa804c}{%
+           family={Solon},
+           familyi={S\bibinitperiod},
+           given={Adam\bibnamedelima J.},
+           giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=06cfeede350d726a4be3c2d18d4dcd02}{%
+           family={Vimercati},
+           familyi={V\bibinitperiod},
+           given={Lara},
+           giveni={L\bibinitperiod}}}%
+        {{hash=8afbc58fd8d6bdcab11b2a736bee065b}{%
+           family={Ryder},
+           familyi={R\bibinitperiod},
+           given={Jenna},
+           giveni={J\bibinitperiod}}}%
+        {{hash=136f09072d0d272d09bbc70de8177a5d}{%
+           family={Schmidt},
+           familyi={S\bibinitperiod},
+           given={Steven\bibnamedelima K.},
+           giveni={S\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \strng{namehash}{07fc4619ba4599f47cc85a550228d01d}
+      \strng{fullhash}{4f069908a9687b7dd7700afce29a21ea}
+      \strng{bibnamehash}{4f069908a9687b7dd7700afce29a21ea}
+      \strng{authorbibnamehash}{4f069908a9687b7dd7700afce29a21ea}
+      \strng{authornamehash}{07fc4619ba4599f47cc85a550228d01d}
+      \strng{authorfullhash}{4f069908a9687b7dd7700afce29a21ea}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Frontiers in Microbiology}
+      \field{title}{{Comparison of microbial communities in the sediments and water columns of frozen cryoconite holes in the McMurdo Dry Valleys, Antarctica}}
+      \field{year}{2019}
+      \keyw{coauthor}
+    \endentry
+    \entry{Schmidt2018}{misc}{}
+      \name{author}{10}{}{%
+        {{hash=c894de6685f2e352c1c173d46d1f02f4}{%
+           family={Schmidt},
+           familyi={S\bibinitperiod},
+           given={S.\bibnamedelimi K.},
+           giveni={S\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=3ccd8fa4caf172f94a97fad096df149f}{%
+           family={Gendron},
+           familyi={G\bibinitperiod},
+           given={E.\bibnamedelimi M.S.},
+           giveni={E\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=875078fa5e91ecb0d47d282a24f9e9b1}{%
+           family={Vincent},
+           familyi={V\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod}}}%
+        {{hash=58531d4cabf7de0157efe618f0065e80}{%
+           family={Solon},
+           familyi={S\bibinitperiod},
+           given={A.\bibnamedelimi J.},
+           giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=3443cadb093bb9bd1baf3bbc55d02470}{%
+           family={Sommers},
+           familyi={S\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+        {{hash=b4d34b6bb6a5d235469c71a662e7aae5}{%
+           family={Schubert},
+           familyi={S\bibinitperiod},
+           given={Z.\bibnamedelimi R.},
+           giveni={Z\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=699d679c3f4f75652e99a1f5682eea89}{%
+           family={Vimercati},
+           familyi={V\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod}}}%
+        {{hash=91f1071a1e566e8fd27d5a85298ed946}{%
+           family={Porazinska},
+           familyi={P\bibinitperiod},
+           given={D.\bibnamedelimi L.},
+           giveni={D\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=70652b015f048c7052ba57a43e550a3e}{%
+           family={Darcy},
+           familyi={D\bibinitperiod},
+           given={J.\bibnamedelimi L.},
+           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=e2c9f5c6a21e82405a1356fc9123f3f3}{%
+           family={Sowell},
+           familyi={S\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{e985de40e1f3ea4a3cdac287179f70ee}
+      \strng{fullhash}{bb179d0c3afd7d12ebee657cb037bba1}
+      \strng{bibnamehash}{bb179d0c3afd7d12ebee657cb037bba1}
+      \strng{authorbibnamehash}{bb179d0c3afd7d12ebee657cb037bba1}
+      \strng{authornamehash}{e985de40e1f3ea4a3cdac287179f70ee}
+      \strng{authorfullhash}{bb179d0c3afd7d12ebee657cb037bba1}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Antonie van Leeuwenhoek, International Journal of General and Molecular Microbiology}
+      \field{title}{{Life at extreme elevations on Atacama volcanoes: the closest thing to Mars on Earth?}}
+      \field{year}{2018}
+      \keyw{coauthor}
+    \endentry
+    \entry{Solon2018}{article}{}
+      \name{author}{8}{}{%
+        {{hash=540942b3f7eacc91e50afda8d4fa804c}{%
+           family={Solon},
+           familyi={S\bibinitperiod},
+           given={Adam\bibnamedelima J.},
+           giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=06cfeede350d726a4be3c2d18d4dcd02}{%
+           family={Vimercati},
+           familyi={V\bibinitperiod},
+           given={Lara},
+           giveni={L\bibinitperiod}}}%
+        {{hash=70652b015f048c7052ba57a43e550a3e}{%
+           family={Darcy},
+           familyi={D\bibinitperiod},
+           given={J.\bibnamedelimi L.},
+           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=0d919424590e1103eb636f1485148013}{%
+           family={Ar{á}n},
+           familyi={A\bibinitperiod},
+           given={Pablo},
+           giveni={P\bibinitperiod}}}%
+        {{hash=58013dec8ffb8fb630cc7c7967f536df}{%
+           family={Porazinska},
+           familyi={P\bibinitperiod},
+           given={Dorota},
+           giveni={D\bibinitperiod}}}%
+        {{hash=749ffd506330641ed7fa3e85df8c02cc}{%
+           family={Dorador},
+           familyi={D\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod}}}%
+        {{hash=ff6adff0068c60c5d92e0407ebd5887b}{%
+           family={Far{í}as},
+           familyi={F\bibinitperiod},
+           given={M.\bibnamedelimi E.},
+           giveni={M\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=c894de6685f2e352c1c173d46d1f02f4}{%
+           family={Schmidt},
+           familyi={S\bibinitperiod},
+           given={S.\bibnamedelimi K.},
+           giveni={S\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \strng{namehash}{08b027c94acc1665f523d882704bfd15}
+      \strng{fullhash}{2bbcbb4470c0013fc143d4fd4439a0e8}
+      \strng{bibnamehash}{2bbcbb4470c0013fc143d4fd4439a0e8}
+      \strng{authorbibnamehash}{2bbcbb4470c0013fc143d4fd4439a0e8}
+      \strng{authornamehash}{08b027c94acc1665f523d882704bfd15}
+      \strng{authorfullhash}{2bbcbb4470c0013fc143d4fd4439a0e8}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Microbial Ecology}
+      \field{title}{{Microbial Communities of High-Elevation Fumaroles, Penitentes, and Dry Tephra “Soils” of the Puna de Atacama Volcanic Zone}}
+      \field{year}{2018}
+      \keyw{coauthor}
+    \endentry
+    \entry{Kennedy2018}{article}{}
+      \name{author}{9}{}{%
+        {{hash=e646889365e13d2210b2a9fb5f6bd974}{%
+           family={Kennedy},
+           familyi={K\bibinitperiod},
+           given={Rebekah\bibnamedelima C.},
+           giveni={R\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=19a71b30b7b429d63960337ba3ab23a9}{%
+           family={Fling},
+           familyi={F\bibinitperiod},
+           given={Russell\bibnamedelima R.},
+           giveni={R\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=cc2d68f5dd9863101d27adc609fb5531}{%
+           family={Robeson},
+           familyi={R\bibinitperiod},
+           given={Michael\bibnamedelima S.},
+           giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=7b92e7692ffbbe76add9ca42e4672018}{%
+           family={Saxton},
+           familyi={S\bibinitperiod},
+           given={Arnold\bibnamedelima M.},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=e6d3fb266bd431a6d67e5281a5a1c0f8}{%
+           family={Schneider},
+           familyi={S\bibinitperiod},
+           given={Liesel\bibnamedelima G.},
+           giveni={L\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=a552069d6dbaac22245e48e43900c9dc}{%
+           family={Darcy},
+           familyi={D\bibinitperiod},
+           given={John\bibnamedelima L.},
+           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=331a8c92fefb6499c6f8356254b798a2}{%
+           family={Bemis},
+           familyi={B\bibinitperiod},
+           given={David\bibnamedelima A.},
+           giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=ea2f53808d586fb18dabf310bdeef18b}{%
+           family={Zhao},
+           familyi={Z\bibinitperiod},
+           given={Ling},
+           giveni={L\bibinitperiod}}}%
+        {{hash=b76eaf786dadd73b44df76286b5175f2}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Jiangang},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{7e434235afae794de7cee966324dfbba}
+      \strng{fullhash}{9cfaccefc78e8afc2a81f26f462a1400}
+      \strng{bibnamehash}{9cfaccefc78e8afc2a81f26f462a1400}
+      \strng{authorbibnamehash}{9cfaccefc78e8afc2a81f26f462a1400}
+      \strng{authornamehash}{7e434235afae794de7cee966324dfbba}
+      \strng{authorfullhash}{9cfaccefc78e8afc2a81f26f462a1400}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Environmental Science and Pollution Research}
+      \field{title}{{Temporal dynamics of gut microbiota in triclocarban-exposed weaned rats}}
+      \field{year}{2018}
+      \keyw{coauthor}
+    \endentry
+    \entry{Sommers2018}{article}{}
+      \name{author}{7}{}{%
+        {{hash=24f2343fccb7c6488ad033cfc8a466d3}{%
+           family={Sommers},
+           familyi={S\bibinitperiod},
+           given={Pacifica},
+           giveni={P\bibinitperiod}}}%
+        {{hash=a552069d6dbaac22245e48e43900c9dc}{%
+           family={Darcy},
+           familyi={D\bibinitperiod},
+           given={John\bibnamedelima L.},
+           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=1dc6f6387dd6c18aae1f7a323d8b4160}{%
+           family={Gendron},
+           familyi={G\bibinitperiod},
+           given={Eli\bibnamedelima M.S.},
+           giveni={E\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=c44440bad36a4e5057b7cc975005c538}{%
+           family={Stanish},
+           familyi={S\bibinitperiod},
+           given={Lee\bibnamedelima F.},
+           giveni={L\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=7ed3e200be8405f85984def8fee7d61e}{%
+           family={Bagshaw},
+           familyi={B\bibinitperiod},
+           given={Elizabeth\bibnamedelima A.},
+           giveni={E\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=1e071be8b3efb688d7e1aa45eb9f3b90}{%
+           family={Porazinska},
+           familyi={P\bibinitperiod},
+           given={Dorota\bibnamedelima L.},
+           giveni={D\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=136f09072d0d272d09bbc70de8177a5d}{%
+           family={Schmidt},
+           familyi={S\bibinitperiod},
+           given={Steven\bibnamedelima K.},
+           giveni={S\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \strng{namehash}{07fc4619ba4599f47cc85a550228d01d}
+      \strng{fullhash}{ec3955fa3c0a4034895302a36b00e40e}
+      \strng{bibnamehash}{ec3955fa3c0a4034895302a36b00e40e}
+      \strng{authorbibnamehash}{ec3955fa3c0a4034895302a36b00e40e}
+      \strng{authornamehash}{07fc4619ba4599f47cc85a550228d01d}
+      \strng{authorfullhash}{ec3955fa3c0a4034895302a36b00e40e}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{FEMS Microbiology Ecology}
+      \field{title}{{Diversity patterns of microbial eukaryotes mirror those of bacteria in Antarctic cryoconite holes}}
+      \field{year}{2018}
+      \keyw{coauthor}
+    \endentry
+    \entry{Knelman2017}{article}{}
+      \name{author}{8}{}{%
+        {{hash=214ebf01a011f29f0d67c5376c1598ed}{%
+           family={Knelman},
+           familyi={K\bibinitperiod},
+           given={Joseph\bibnamedelima E.},
+           giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=6b3b26706f977a2752532e483d159bad}{%
+           family={Graham},
+           familyi={G\bibinitperiod},
+           given={Emily\bibnamedelima B.},
+           giveni={E\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=0127c8b4319aa170e0048d543bdacec3}{%
+           family={Ferrenberg},
+           familyi={F\bibinitperiod},
+           given={Scott},
+           giveni={S\bibinitperiod}}}%
+        {{hash=9a12500faba9a4720b0095f97f5e887f}{%
+           family={Lecoeuvre},
+           familyi={L\bibinitperiod},
+           given={Aur{é}lien},
+           giveni={A\bibinitperiod}}}%
+        {{hash=d621968663ff31831280256d39e77d3b}{%
+           family={Labrado},
+           familyi={L\bibinitperiod},
+           given={Amanda},
+           giveni={A\bibinitperiod}}}%
+        {{hash=a552069d6dbaac22245e48e43900c9dc}{%
+           family={Darcy},
+           familyi={D\bibinitperiod},
+           given={John\bibnamedelima L.},
+           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=33b613943a0a0b184a3088ff787e5459}{%
+           family={Nemergut},
+           familyi={N\bibinitperiod},
+           given={Diana\bibnamedelima R.},
+           giveni={D\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=136f09072d0d272d09bbc70de8177a5d}{%
+           family={Schmidt},
+           familyi={S\bibinitperiod},
+           given={Steven\bibnamedelima K.},
+           giveni={S\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \strng{namehash}{c180944b628581060e115553dd27035b}
+      \strng{fullhash}{cc9b8107b41ec047f3e4de677473b7f2}
+      \strng{bibnamehash}{cc9b8107b41ec047f3e4de677473b7f2}
+      \strng{authorbibnamehash}{cc9b8107b41ec047f3e4de677473b7f2}
+      \strng{authornamehash}{c180944b628581060e115553dd27035b}
+      \strng{authorfullhash}{cc9b8107b41ec047f3e4de677473b7f2}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Forests}
+      \field{title}{{Rapid shifts in soil nutrients and decomposition enzyme activity in early succession following forest fire}}
+      \field{year}{2017}
+      \keyw{coauthor}
+    \endentry
+    \entry{Schmidt2017}{misc}{}
+      \name{author}{8}{}{%
+        {{hash=136f09072d0d272d09bbc70de8177a5d}{%
+           family={Schmidt},
+           familyi={S\bibinitperiod},
+           given={Steven\bibnamedelima K.},
+           giveni={S\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=06cfeede350d726a4be3c2d18d4dcd02}{%
+           family={Vimercati},
+           familyi={V\bibinitperiod},
+           given={Lara},
+           giveni={L\bibinitperiod}}}%
+        {{hash=a552069d6dbaac22245e48e43900c9dc}{%
+           family={Darcy},
+           familyi={D\bibinitperiod},
+           given={John\bibnamedelima L.},
+           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=0d919424590e1103eb636f1485148013}{%
+           family={Ar{á}n},
+           familyi={A\bibinitperiod},
+           given={Pablo},
+           giveni={P\bibinitperiod}}}%
+        {{hash=1dc6f6387dd6c18aae1f7a323d8b4160}{%
+           family={Gendron},
+           familyi={G\bibinitperiod},
+           given={Eli\bibnamedelima M.S.},
+           giveni={E\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=540942b3f7eacc91e50afda8d4fa804c}{%
+           family={Solon},
+           familyi={S\bibinitperiod},
+           given={Adam\bibnamedelima J.},
+           giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=58013dec8ffb8fb630cc7c7967f536df}{%
+           family={Porazinska},
+           familyi={P\bibinitperiod},
+           given={Dorota},
+           giveni={D\bibinitperiod}}}%
+        {{hash=786397ca6ec2dc9390736d36728c766c}{%
+           family={Dorador},
+           familyi={D\bibinitperiod},
+           given={Cristina},
+           giveni={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{e7943fdb2166b2f592e6a297d9b492f9}
+      \strng{fullhash}{78a58a4a900d4ae4d3579d8fac241bb1}
+      \strng{bibnamehash}{78a58a4a900d4ae4d3579d8fac241bb1}
+      \strng{authorbibnamehash}{78a58a4a900d4ae4d3579d8fac241bb1}
+      \strng{authornamehash}{e7943fdb2166b2f592e6a297d9b492f9}
+      \strng{authorfullhash}{78a58a4a900d4ae4d3579d8fac241bb1}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Mycology}
+      \field{title}{{A Naganishia in high places: functioning populations or dormant cells from the atmosphere?}}
+      \field{year}{2017}
+      \keyw{coauthor}
+    \endentry
+    \entry{Schmidt2017a}{article}{}
+      \name{author}{6}{}{%
+        {{hash=c894de6685f2e352c1c173d46d1f02f4}{%
+           family={Schmidt},
+           familyi={S\bibinitperiod},
+           given={S.\bibnamedelimi K.},
+           giveni={S\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=70652b015f048c7052ba57a43e550a3e}{%
+           family={Darcy},
+           familyi={D\bibinitperiod},
+           given={J.\bibnamedelimi L.},
+           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=24f2343fccb7c6488ad033cfc8a466d3}{%
+           family={Sommers},
+           familyi={S\bibinitperiod},
+           given={Pacifica},
+           giveni={P\bibinitperiod}}}%
+        {{hash=68c3a9cf129cb9490561a1adf242cd9e}{%
+           family={Gunawan},
+           familyi={G\bibinitperiod},
+           given={Eva},
+           giveni={E\bibinitperiod}}}%
+        {{hash=f8cca4e719d3fd9c1c2ea29bb9e2a974}{%
+           family={Knelman},
+           familyi={K\bibinitperiod},
+           given={J.\bibnamedelimi E.},
+           giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=4219510b82885989af7aa3554808dc54}{%
+           family={Yager},
+           familyi={Y\bibinitperiod},
+           given={Karina},
+           giveni={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{e985de40e1f3ea4a3cdac287179f70ee}
+      \strng{fullhash}{430c3c7e903049d70d9a83b020ad7fd5}
+      \strng{bibnamehash}{430c3c7e903049d70d9a83b020ad7fd5}
+      \strng{authorbibnamehash}{430c3c7e903049d70d9a83b020ad7fd5}
+      \strng{authornamehash}{e985de40e1f3ea4a3cdac287179f70ee}
+      \strng{authorfullhash}{430c3c7e903049d70d9a83b020ad7fd5}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Extremophiles}
+      \field{title}{{Freeze–thaw revival of rotifers and algae in a desiccated, high-elevation (5500 meters) microbial mat, high Andes, Per{ú}}}
+      \field{year}{2017}
+      \keyw{coauthor}
+    \endentry
+    \entry{Washburne2017}{article}{}
+      \name{author}{8}{}{%
+        {{hash=3777022be89393525c5ba819cfb5f35c}{%
+           family={Washburne},
+           familyi={W\bibinitperiod},
+           given={Alex\bibnamedelima D.},
+           giveni={A\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=7974f0710cb36db457f9fc17209d6956}{%
+           family={Silverman},
+           familyi={S\bibinitperiod},
+           given={Justin\bibnamedelima D.},
+           giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=387335f92acffef48ac8a708c5b8ea80}{%
+           family={Leff},
+           familyi={L\bibinitperiod},
+           given={Jonathan\bibnamedelima W.},
+           giveni={J\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=0b91b7aea96f7b5157a5c889f3544035}{%
+           family={Bennett},
+           familyi={B\bibinitperiod},
+           given={Dominic\bibnamedelima J.},
+           giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=a552069d6dbaac22245e48e43900c9dc}{%
+           family={Darcy},
+           familyi={D\bibinitperiod},
+           given={John\bibnamedelima L.},
+           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=49a355d0c2a2e9b223f90f3e0088cb29}{%
+           family={Mukherjee},
+           familyi={M\bibinitperiod},
+           given={Sayan},
+           giveni={S\bibinitperiod}}}%
+        {{hash=a52765c9f7dcff44813ff65a89d4c5cb}{%
+           family={Fierer},
+           familyi={F\bibinitperiod},
+           given={Noah},
+           giveni={N\bibinitperiod}}}%
+        {{hash=c2156d8dd6ecf0645293fedc95853644}{%
+           family={David},
+           familyi={D\bibinitperiod},
+           given={Lawrence\bibnamedelima A.},
+           giveni={L\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{94009310a17774aa362404a7c454605c}
+      \strng{fullhash}{09903a97a4cdb0235234e21fddc51aa9}
+      \strng{bibnamehash}{09903a97a4cdb0235234e21fddc51aa9}
+      \strng{authorbibnamehash}{09903a97a4cdb0235234e21fddc51aa9}
+      \strng{authornamehash}{94009310a17774aa362404a7c454605c}
+      \strng{authorfullhash}{09903a97a4cdb0235234e21fddc51aa9}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{PeerJ}
+      \field{title}{{Phylogenetic factorization of compositional data yields lineage-level associations in microbiome datasets}}
+      \field{year}{2017}
+      \keyw{coauthor}
+    \endentry
+    \entry{Schmidt2016}{article}{}
+      \name{author}{6}{}{%
+        {{hash=c894de6685f2e352c1c173d46d1f02f4}{%
+           family={Schmidt},
+           familyi={S\bibinitperiod},
+           given={S.\bibnamedelimi K.},
+           giveni={S\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=7ee2ede482b096264c60259b52afce5d}{%
+           family={Porazinska},
+           familyi={P\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+        {{hash=1562ad2ccb409804a58da9318f2a8b61}{%
+           family={Concienne},
+           familyi={C\bibinitperiod},
+           given={B.\bibnamedelimi L.},
+           giveni={B\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=70652b015f048c7052ba57a43e550a3e}{%
+           family={Darcy},
+           familyi={D\bibinitperiod},
+           given={J.\bibnamedelimi L.},
+           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=98ce25474a59454d017be8e0d87183be}{%
+           family={King},
+           familyi={K\bibinitperiod},
+           given={A.\bibnamedelimi J.},
+           giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=293ca5a913d4713bac0e3afb54c7b603}{%
+           family={Nemergut},
+           familyi={N\bibinitperiod},
+           given={D.\bibnamedelimi R.},
+           giveni={D\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \strng{namehash}{e985de40e1f3ea4a3cdac287179f70ee}
+      \strng{fullhash}{af2402e45ac6dbf67bdf604ba7a74a88}
+      \strng{bibnamehash}{af2402e45ac6dbf67bdf604ba7a74a88}
+      \strng{authorbibnamehash}{af2402e45ac6dbf67bdf604ba7a74a88}
+      \strng{authornamehash}{e985de40e1f3ea4a3cdac287179f70ee}
+      \strng{authorfullhash}{af2402e45ac6dbf67bdf604ba7a74a88}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Ecosystems}
+      \field{title}{{Biogeochemical Stoichiometry Reveals P and N Limitation Across the Post-glacial Landscape of Denali National Park, Alaska}}
+      \field{year}{2016}
+      \keyw{coauthor}
+    \endentry
+    \entry{Kennedy2016}{article}{}
+      \name{author}{10}{}{%
+        {{hash=e646889365e13d2210b2a9fb5f6bd974}{%
+           family={Kennedy},
+           familyi={K\bibinitperiod},
+           given={Rebekah\bibnamedelima C.},
+           giveni={R\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=19a71b30b7b429d63960337ba3ab23a9}{%
+           family={Fling},
+           familyi={F\bibinitperiod},
+           given={Russell\bibnamedelima R.},
+           giveni={R\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=cc2d68f5dd9863101d27adc609fb5531}{%
+           family={Robeson},
+           familyi={R\bibinitperiod},
+           given={Michael\bibnamedelima S.},
+           giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=7b92e7692ffbbe76add9ca42e4672018}{%
+           family={Saxton},
+           familyi={S\bibinitperiod},
+           given={Arnold\bibnamedelima M.},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=832be496bdec23392808cc2ebd84e882}{%
+           family={Donnell},
+           familyi={D\bibinitperiod},
+           given={Robert\bibnamedelima L.},
+           giveni={R\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=a552069d6dbaac22245e48e43900c9dc}{%
+           family={Darcy},
+           familyi={D\bibinitperiod},
+           given={John\bibnamedelima L.},
+           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=331a8c92fefb6499c6f8356254b798a2}{%
+           family={Bemis},
+           familyi={B\bibinitperiod},
+           given={David\bibnamedelima A.},
+           giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=eec567144e7053ded431c59378f366e7}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Jiang},
+           giveni={J\bibinitperiod}}}%
+        {{hash=ea2f53808d586fb18dabf310bdeef18b}{%
+           family={Zhao},
+           familyi={Z\bibinitperiod},
+           given={Ling},
+           giveni={L\bibinitperiod}}}%
+        {{hash=b76eaf786dadd73b44df76286b5175f2}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Jiangang},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{7e434235afae794de7cee966324dfbba}
+      \strng{fullhash}{36f087f0a9102c857bfdf2e0912f43c7}
+      \strng{bibnamehash}{36f087f0a9102c857bfdf2e0912f43c7}
+      \strng{authorbibnamehash}{36f087f0a9102c857bfdf2e0912f43c7}
+      \strng{authornamehash}{7e434235afae794de7cee966324dfbba}
+      \strng{authorfullhash}{36f087f0a9102c857bfdf2e0912f43c7}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Scientific Reports}
+      \field{number}{33430}
+      \field{title}{{Temporal Development of Gut Microbiota in Triclocarban Exposed Pregnant and Neonatal Rats}}
+      \field{volume}{6}
+      \field{year}{2016}
+      \keyw{coauthor}
+    \endentry
+    \entry{Nemergut2016}{article}{}
+      \name{author}{11}{}{%
+        {{hash=33b613943a0a0b184a3088ff787e5459}{%
+           family={Nemergut},
+           familyi={N\bibinitperiod},
+           given={Diana\bibnamedelima R.},
+           giveni={D\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=214ebf01a011f29f0d67c5376c1598ed}{%
+           family={Knelman},
+           familyi={K\bibinitperiod},
+           given={Joseph\bibnamedelima E.},
+           giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=0127c8b4319aa170e0048d543bdacec3}{%
+           family={Ferrenberg},
+           familyi={F\bibinitperiod},
+           given={Scott},
+           giveni={S\bibinitperiod}}}%
+        {{hash=9bb5dbe81f80bf4562396425c53b8b04}{%
+           family={Bilinski},
+           familyi={B\bibinitperiod},
+           given={Teresa},
+           giveni={T\bibinitperiod}}}%
+        {{hash=29690e6e77ef76bb1c269eca21f541d9}{%
+           family={Melbourne},
+           familyi={M\bibinitperiod},
+           given={Brett},
+           giveni={B\bibinitperiod}}}%
+        {{hash=bef2a7487ff5b645c8024d4ec3c6137b}{%
+           family={Jiang},
+           familyi={J\bibinitperiod},
+           given={Lin},
+           giveni={L\bibinitperiod}}}%
+        {{hash=8f524674b7870bae7bfbc772ee46b984}{%
+           family={Violle},
+           familyi={V\bibinitperiod},
+           given={Cyrille},
+           giveni={C\bibinitperiod}}}%
+        {{hash=a552069d6dbaac22245e48e43900c9dc}{%
+           family={Darcy},
+           familyi={D\bibinitperiod},
+           given={John\bibnamedelima L.},
+           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=d009c54e9cbef97c1fc46800a43bf36a}{%
+           family={Prest},
+           familyi={P\bibinitperiod},
+           given={Tiffany},
+           giveni={T\bibinitperiod}}}%
+        {{hash=136f09072d0d272d09bbc70de8177a5d}{%
+           family={Schmidt},
+           familyi={S\bibinitperiod},
+           given={Steven\bibnamedelima K.},
+           giveni={S\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=b991fb45981a30394c3a8219c1ba007d}{%
+           family={Townsend},
+           familyi={T\bibinitperiod},
+           given={Alan\bibnamedelima R.},
+           giveni={A\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \strng{namehash}{1a41f5a59dc87c0c7c1b11af816ec300}
+      \strng{fullhash}{1445fcba7d226903965741d99fd32a82}
+      \strng{bibnamehash}{1445fcba7d226903965741d99fd32a82}
+      \strng{authorbibnamehash}{1445fcba7d226903965741d99fd32a82}
+      \strng{authornamehash}{1a41f5a59dc87c0c7c1b11af816ec300}
+      \strng{authorfullhash}{1445fcba7d226903965741d99fd32a82}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{ISME Journal}
+      \field{title}{{Decreases in average bacterial community rRNA operon copy number during succession}}
+      \field{year}{2016}
+      \keyw{coauthor}
+    \endentry
+    \entry{Schmidt2015}{article}{}
+      \name{author}{2}{}{%
+        {{hash=c894de6685f2e352c1c173d46d1f02f4}{%
+           family={Schmidt},
+           familyi={S\bibinitperiod},
+           given={S.\bibnamedelimi K.},
+           giveni={S\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=70652b015f048c7052ba57a43e550a3e}{%
+           family={Darcy},
+           familyi={D\bibinitperiod},
+           given={J.\bibnamedelimi L.},
+           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \strng{namehash}{07891b4aae7e35076035b561a7cc1e44}
+      \strng{fullhash}{07891b4aae7e35076035b561a7cc1e44}
+      \strng{bibnamehash}{07891b4aae7e35076035b561a7cc1e44}
+      \strng{authorbibnamehash}{07891b4aae7e35076035b561a7cc1e44}
+      \strng{authornamehash}{07891b4aae7e35076035b561a7cc1e44}
+      \strng{authorfullhash}{07891b4aae7e35076035b561a7cc1e44}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Polar Biology}
+      \field{number}{5}
+      \field{title}{{Phylogeny of ulotrichalean algae from extreme high-altitude and high-latitude ecosystems}}
+      \field{volume}{38}
+      \field{year}{2015}
+      \field{pages}{689\bibrangedash 697}
+      \range{pages}{9}
+      \keyw{coauthor}
+    \endentry
+    \entry{Knelman2014}{article}{}
+      \name{author}{7}{}{%
+        {{hash=69137a6ed2564ce137c2e09821c8464e}{%
+           family={Knelman},
+           familyi={K\bibinitperiod},
+           given={Joseph\bibnamedelima E},
+           giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=2ace6dc5ae396fc3ca82b9d4ba7944c6}{%
+           family={Schmidt},
+           familyi={S\bibinitperiod},
+           given={Steven\bibnamedelima K},
+           giveni={S\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=6191e1ed238a99ae887c251150ea4136}{%
+           family={Lynch},
+           familyi={L\bibinitperiod},
+           given={Ryan\bibnamedelima C},
+           giveni={R\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=3db17bb42b7e4b4db17cf41d8971aafd}{%
+           family={Darcy},
+           familyi={D\bibinitperiod},
+           given={John\bibnamedelima L},
+           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=f92948ec7b98335807b0aa7b25119201}{%
+           family={Castle},
+           familyi={C\bibinitperiod},
+           given={Sarah\bibnamedelima C},
+           giveni={S\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=36fc0073dc1eeb2e8045ff447bd9424f}{%
+           family={Cleveland},
+           familyi={C\bibinitperiod},
+           given={Cory\bibnamedelima C},
+           giveni={C\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=196aa54175eaca3e79843a0fd06fdcc6}{%
+           family={Nemergut},
+           familyi={N\bibinitperiod},
+           given={Diana\bibnamedelima R},
+           giveni={D\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Public Library of Science}%
+      }
+      \strng{namehash}{8265fd3b1b57490dcf14aac6c02930c8}
+      \strng{fullhash}{fc372c3e18d17dbc788653f9552e7df5}
+      \strng{bibnamehash}{fc372c3e18d17dbc788653f9552e7df5}
+      \strng{authorbibnamehash}{fc372c3e18d17dbc788653f9552e7df5}
+      \strng{authornamehash}{8265fd3b1b57490dcf14aac6c02930c8}
+      \strng{authorfullhash}{fc372c3e18d17dbc788653f9552e7df5}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{PloS one}
+      \field{number}{7}
+      \field{title}{{Nutrient addition dramatically accelerates microbial community succession.}}
+      \field{volume}{9}
+      \field{year}{2014}
+      \field{pages}{e102609}
+      \range{pages}{-1}
+      \keyw{coauthor}
+    \endentry
+    \entry{Lynch2014}{article}{}
+      \name{author}{5}{}{%
+        {{hash=6191e1ed238a99ae887c251150ea4136}{%
+           family={Lynch},
+           familyi={L\bibinitperiod},
+           given={Ryan\bibnamedelima C},
+           giveni={R\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=3db17bb42b7e4b4db17cf41d8971aafd}{%
+           family={Darcy},
+           familyi={D\bibinitperiod},
+           given={John\bibnamedelima L},
+           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=6decefb54d7a23f322745bfc0e759df5}{%
+           family={Kane},
+           familyi={K\bibinitperiod},
+           given={Nolan\bibnamedelima C},
+           giveni={N\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=196aa54175eaca3e79843a0fd06fdcc6}{%
+           family={Nemergut},
+           familyi={N\bibinitperiod},
+           given={Diana\bibnamedelima R},
+           giveni={D\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=0e7a041f33100d4cfccd12c5c36e8c9f}{%
+           family={Schmidt},
+           familyi={S\bibinitperiod},
+           given={Steve\bibnamedelima K},
+           giveni={S\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \strng{namehash}{f3a79fb46f3bbe0481aa07504efa9c7b}
+      \strng{fullhash}{5d222ecc7d7dcaab5134a081f0232ad4}
+      \strng{bibnamehash}{5d222ecc7d7dcaab5134a081f0232ad4}
+      \strng{authorbibnamehash}{5d222ecc7d7dcaab5134a081f0232ad4}
+      \strng{authornamehash}{f3a79fb46f3bbe0481aa07504efa9c7b}
+      \strng{authorfullhash}{5d222ecc7d7dcaab5134a081f0232ad4}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Frontiers in microbiology}
+      \field{title}{{Metagenomic evidence for metabolism of trace atmospheric gases by high-elevation desert Actinobacteria.}}
+      \field{volume}{5}
+      \field{year}{2014}
+      \field{pages}{698}
+      \range{pages}{1}
+      \keyw{coauthor}
+    \endentry
+    \entry{Schmidt2014}{article}{}
+      \name{author}{4}{}{%
+        {{hash=3095a192f1125f79736a8d7b69f98c0d}{%
+           family={Schmidt},
+           familyi={S\bibinitperiod},
+           given={S\bibnamedelima K},
+           giveni={S\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=239421d6808145c8cb3e487b06d1c18c}{%
+           family={Nemergut},
+           familyi={N\bibinitperiod},
+           given={D\bibnamedelima R},
+           giveni={D\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=0b791cb0a1cd9ee6659b74d0173ac988}{%
+           family={Darcy},
+           familyi={D\bibinitperiod},
+           given={J\bibnamedelima L},
+           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=657639f56daaa50cabcaafef60b68ced}{%
+           family={Lynch},
+           familyi={L\bibinitperiod},
+           given={R},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{c75e234c4a854fb9e4d62abec6b0cca5}
+      \strng{fullhash}{f0fb6ceec67d7aa3cb59cb16b6dea387}
+      \strng{bibnamehash}{f0fb6ceec67d7aa3cb59cb16b6dea387}
+      \strng{authorbibnamehash}{f0fb6ceec67d7aa3cb59cb16b6dea387}
+      \strng{authornamehash}{c75e234c4a854fb9e4d62abec6b0cca5}
+      \strng{authorfullhash}{f0fb6ceec67d7aa3cb59cb16b6dea387}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Molecular ecology}
+      \field{number}{2}
+      \field{title}{{Do bacterial and fungal communities assemble differently during primary succession?}}
+      \field{volume}{23}
+      \field{year}{2014}
+      \field{pages}{254\bibrangedash 8}
+      \range{pages}{5}
+      \keyw{coauthor}
+    \endentry
+    \entry{Lynch2014a}{article}{}
+      \name{author}{5}{}{%
+        {{hash=31bcd6ee6ecba87912ab0bcdec907403}{%
+           family={Lynch},
+           familyi={L\bibinitperiod},
+           given={Ryan\bibnamedelima C.},
+           giveni={R\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=a552069d6dbaac22245e48e43900c9dc}{%
+           family={Darcy},
+           familyi={D\bibinitperiod},
+           given={John\bibnamedelima L.},
+           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=a22c8a2c4418f32ba4894619cbe030cc}{%
+           family={Kane},
+           familyi={K\bibinitperiod},
+           given={Nolan\bibnamedelima C.},
+           giveni={N\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=33b613943a0a0b184a3088ff787e5459}{%
+           family={Nemergut},
+           familyi={N\bibinitperiod},
+           given={Diana\bibnamedelima R.},
+           giveni={D\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=b3a172c81636a0730a4e8c1c99122f75}{%
+           family={Schmidt},
+           familyi={S\bibinitperiod},
+           given={Steve\bibnamedelima K.},
+           giveni={S\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \strng{namehash}{125968f14e5c1149e91f507976983640}
+      \strng{fullhash}{d1156de5787e009cc6ca25869aff3174}
+      \strng{bibnamehash}{d1156de5787e009cc6ca25869aff3174}
+      \strng{authorbibnamehash}{d1156de5787e009cc6ca25869aff3174}
+      \strng{authornamehash}{125968f14e5c1149e91f507976983640}
+      \strng{authorfullhash}{d1156de5787e009cc6ca25869aff3174}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Frontiers in Microbiology}
+      \field{title}{{Metagenomic evidence for metabolism of trace atmospheric gases by high-elevation desert actinobacteria}}
+      \field{year}{2014}
+      \keyw{coauthor}
+    \endentry
+    \entry{Knelman2014a}{article}{}
+      \name{author}{7}{}{%
+        {{hash=214ebf01a011f29f0d67c5376c1598ed}{%
+           family={Knelman},
+           familyi={K\bibinitperiod},
+           given={Joseph\bibnamedelima E.},
+           giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=136f09072d0d272d09bbc70de8177a5d}{%
+           family={Schmidt},
+           familyi={S\bibinitperiod},
+           given={Steven\bibnamedelima K.},
+           giveni={S\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=31bcd6ee6ecba87912ab0bcdec907403}{%
+           family={Lynch},
+           familyi={L\bibinitperiod},
+           given={Ryan\bibnamedelima C.},
+           giveni={R\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=a552069d6dbaac22245e48e43900c9dc}{%
+           family={Darcy},
+           familyi={D\bibinitperiod},
+           given={John\bibnamedelima L.},
+           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=b2d9fddfa4f51964c2866d4c7902d1f3}{%
+           family={Castle},
+           familyi={C\bibinitperiod},
+           given={Sarah\bibnamedelima C.},
+           giveni={S\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=30dda08e3f7a450918ad75d9f8d55e2e}{%
+           family={Cleveland},
+           familyi={C\bibinitperiod},
+           given={Cory\bibnamedelima C.},
+           giveni={C\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=33b613943a0a0b184a3088ff787e5459}{%
+           family={Nemergut},
+           familyi={N\bibinitperiod},
+           given={Diana\bibnamedelima R.},
+           giveni={D\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \strng{namehash}{c180944b628581060e115553dd27035b}
+      \strng{fullhash}{6c0646df8e22779dad0ded8b17b0929c}
+      \strng{bibnamehash}{6c0646df8e22779dad0ded8b17b0929c}
+      \strng{authorbibnamehash}{6c0646df8e22779dad0ded8b17b0929c}
+      \strng{authornamehash}{c180944b628581060e115553dd27035b}
+      \strng{authorfullhash}{6c0646df8e22779dad0ded8b17b0929c}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{PLoS ONE}
+      \field{title}{{Nutrient addition dramatically accelerates microbial community succession}}
+      \field{year}{2014}
+      \keyw{coauthor}
+    \endentry
+    \entry{Schmidt2014a}{misc}{}
+      \name{author}{4}{}{%
+        {{hash=c894de6685f2e352c1c173d46d1f02f4}{%
+           family={Schmidt},
+           familyi={S\bibinitperiod},
+           given={S.\bibnamedelimi K.},
+           giveni={S\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=293ca5a913d4713bac0e3afb54c7b603}{%
+           family={Nemergut},
+           familyi={N\bibinitperiod},
+           given={D.\bibnamedelimi R.},
+           giveni={D\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=70652b015f048c7052ba57a43e550a3e}{%
+           family={Darcy},
+           familyi={D\bibinitperiod},
+           given={J.\bibnamedelimi L.},
+           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=164bf0818f4a2d1e0742f05387c0a180}{%
+           family={Lynch},
+           familyi={L\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{e985de40e1f3ea4a3cdac287179f70ee}
+      \strng{fullhash}{c23677b7dd3d7365181c3aa9f2052064}
+      \strng{bibnamehash}{c23677b7dd3d7365181c3aa9f2052064}
+      \strng{authorbibnamehash}{c23677b7dd3d7365181c3aa9f2052064}
+      \strng{authornamehash}{e985de40e1f3ea4a3cdac287179f70ee}
+      \strng{authorfullhash}{c23677b7dd3d7365181c3aa9f2052064}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Molecular Ecology}
+      \field{title}{{Do bacterial and fungal communities assemble differently during primary succession?}}
+      \field{year}{2014}
+      \keyw{coauthor}
+    \endentry
+    \entry{Schmidt2013}{incollection}{}
+      \name{author}{6}{}{%
+        {{hash=2ace6dc5ae396fc3ca82b9d4ba7944c6}{%
+           family={Schmidt},
+           familyi={S\bibinitperiod},
+           given={Steven\bibnamedelima K},
+           giveni={S\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=24ab87226410278391454eeb79f6e75b}{%
+           family={Rhodes},
+           familyi={R\bibinitperiod},
+           given={Moshe},
+           giveni={M\bibinitperiod}}}%
+        {{hash=69137a6ed2564ce137c2e09821c8464e}{%
+           family={Knelman},
+           familyi={K\bibinitperiod},
+           given={Joseph\bibnamedelima E},
+           giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=6191e1ed238a99ae887c251150ea4136}{%
+           family={Lynch},
+           familyi={L\bibinitperiod},
+           given={Ryan\bibnamedelima C},
+           giveni={R\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=3db17bb42b7e4b4db17cf41d8971aafd}{%
+           family={Darcy},
+           familyi={D\bibinitperiod},
+           given={John\bibnamedelima L},
+           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=196aa54175eaca3e79843a0fd06fdcc6}{%
+           family={Nemergut},
+           familyi={N\bibinitperiod},
+           given={Diana\bibnamedelima R},
+           giveni={D\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Berlin}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{fa195961cfc3b576ae9244d5a73d28ca}
+      \strng{fullhash}{788eb89cf1086900eee1ab23f2455ae2}
+      \strng{bibnamehash}{788eb89cf1086900eee1ab23f2455ae2}
+      \strng{authorbibnamehash}{788eb89cf1086900eee1ab23f2455ae2}
+      \strng{authornamehash}{fa195961cfc3b576ae9244d5a73d28ca}
+      \strng{authorfullhash}{788eb89cf1086900eee1ab23f2455ae2}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{The Prokaryotes}
+      \field{title}{{Alpine and Arctic Soil Microbial Communities}}
+      \field{year}{2013}
+      \field{pages}{44\bibrangedash 56}
+      \range{pages}{13}
+      \keyw{coauthor}
+    \endentry
+    \entry{Naff2013}{article}{}
+      \name{author}{3}{}{%
+        {{hash=419c717f70828fd1ca6ea3204ea246ce}{%
+           family={Naff},
+           familyi={N\bibinitperiod},
+           given={C\bibnamedelima S},
+           giveni={C\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=0b791cb0a1cd9ee6659b74d0173ac988}{%
+           family={Darcy},
+           familyi={D\bibinitperiod},
+           given={J\bibnamedelima L},
+           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=3095a192f1125f79736a8d7b69f98c0d}{%
+           family={Schmidt},
+           familyi={S\bibinitperiod},
+           given={S\bibnamedelima K},
+           giveni={S\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \strng{namehash}{2118149f57541c1db73fe30652de33ea}
+      \strng{fullhash}{2118149f57541c1db73fe30652de33ea}
+      \strng{bibnamehash}{2118149f57541c1db73fe30652de33ea}
+      \strng{authorbibnamehash}{2118149f57541c1db73fe30652de33ea}
+      \strng{authornamehash}{2118149f57541c1db73fe30652de33ea}
+      \strng{authorfullhash}{2118149f57541c1db73fe30652de33ea}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Environmental microbiology}
+      \field{number}{10}
+      \field{title}{{Phylogeny and biogeography of an uncultured clade of snow chytrids.}}
+      \field{volume}{15}
+      \field{year}{2013}
+      \field{pages}{2672\bibrangedash 80}
+      \range{pages}{11}
+      \keyw{coauthor}
+    \endentry
+    \entry{Nemergut2013}{article}{}
+      \name{author}{11}{}{%
+        {{hash=196aa54175eaca3e79843a0fd06fdcc6}{%
+           family={Nemergut},
+           familyi={N\bibinitperiod},
+           given={Diana\bibnamedelima R},
+           giveni={D\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=2ace6dc5ae396fc3ca82b9d4ba7944c6}{%
+           family={Schmidt},
+           familyi={S\bibinitperiod},
+           given={Steven\bibnamedelima K},
+           giveni={S\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=9721bbb0dfdbe7e6d9fa8eb7812ab0e7}{%
+           family={Fukami},
+           familyi={F\bibinitperiod},
+           given={Tadashi},
+           giveni={T\bibinitperiod}}}%
+        {{hash=57cfdb70bf2848525cbd612490ebcb1c}{%
+           family={O'Neill},
+           familyi={O\bibinitperiod},
+           given={Sean\bibnamedelima P},
+           giveni={S\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=80ac21ea32d3c3419dc0f78dd5183abd}{%
+           family={Bilinski},
+           familyi={B\bibinitperiod},
+           given={Teresa\bibnamedelima M},
+           giveni={T\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=4d897e286eb631947c1b53dd3bb1bb57}{%
+           family={Stanish},
+           familyi={S\bibinitperiod},
+           given={Lee\bibnamedelima F},
+           giveni={L\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=69137a6ed2564ce137c2e09821c8464e}{%
+           family={Knelman},
+           familyi={K\bibinitperiod},
+           given={Joseph\bibnamedelima E},
+           giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=3db17bb42b7e4b4db17cf41d8971aafd}{%
+           family={Darcy},
+           familyi={D\bibinitperiod},
+           given={John\bibnamedelima L},
+           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=6191e1ed238a99ae887c251150ea4136}{%
+           family={Lynch},
+           familyi={L\bibinitperiod},
+           given={Ryan\bibnamedelima C},
+           giveni={R\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=b468fac8c875e234066c4a3f83506642}{%
+           family={Wickey},
+           familyi={W\bibinitperiod},
+           given={Phillip},
+           giveni={P\bibinitperiod}}}%
+        {{hash=0127c8b4319aa170e0048d543bdacec3}{%
+           family={Ferrenberg},
+           familyi={F\bibinitperiod},
+           given={Scott},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{948faa507e7beb8112a9954efc885665}
+      \strng{fullhash}{c4cbfe759ba9535e32a5b1b9c63c9c67}
+      \strng{bibnamehash}{c4cbfe759ba9535e32a5b1b9c63c9c67}
+      \strng{authorbibnamehash}{c4cbfe759ba9535e32a5b1b9c63c9c67}
+      \strng{authornamehash}{948faa507e7beb8112a9954efc885665}
+      \strng{authorfullhash}{c4cbfe759ba9535e32a5b1b9c63c9c67}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Microbiology and molecular biology reviews : MMBR}
+      \field{number}{3}
+      \field{title}{{Patterns and processes of microbial community assembly.}}
+      \field{volume}{77}
+      \field{year}{2013}
+      \field{pages}{342\bibrangedash 56}
+      \range{pages}{15}
+      \keyw{coauthor}
+    \endentry
+    \entry{Naff2013a}{article}{}
+      \name{author}{3}{}{%
+        {{hash=00109deef03d6b76d46f6830648a0c2b}{%
+           family={Naff},
+           familyi={N\bibinitperiod},
+           given={C.\bibnamedelimi S.},
+           giveni={C\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=70652b015f048c7052ba57a43e550a3e}{%
+           family={Darcy},
+           familyi={D\bibinitperiod},
+           given={J.\bibnamedelimi L.},
+           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=c894de6685f2e352c1c173d46d1f02f4}{%
+           family={Schmidt},
+           familyi={S\bibinitperiod},
+           given={S.\bibnamedelimi K.},
+           giveni={S\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \strng{namehash}{859efded28c466ba255a1f4c3c989404}
+      \strng{fullhash}{859efded28c466ba255a1f4c3c989404}
+      \strng{bibnamehash}{859efded28c466ba255a1f4c3c989404}
+      \strng{authorbibnamehash}{859efded28c466ba255a1f4c3c989404}
+      \strng{authornamehash}{859efded28c466ba255a1f4c3c989404}
+      \strng{authorfullhash}{859efded28c466ba255a1f4c3c989404}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Environmental Microbiology}
+      \field{title}{{Phylogeny and biogeography of an uncultured clade of snow chytrids}}
+      \field{year}{2013}
+      \keyw{coauthor}
+    \endentry
+    \entry{Nemergut2013a}{article}{}
+      \name{author}{11}{}{%
+        {{hash=293ca5a913d4713bac0e3afb54c7b603}{%
+           family={Nemergut},
+           familyi={N\bibinitperiod},
+           given={D.\bibnamedelimi R.},
+           giveni={D\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=c894de6685f2e352c1c173d46d1f02f4}{%
+           family={Schmidt},
+           familyi={S\bibinitperiod},
+           given={S.\bibnamedelimi K.},
+           giveni={S\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=b542067fa48838c901ecfaf1ddf3c04a}{%
+           family={Fukami},
+           familyi={F\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod}}}%
+        {{hash=0da421521454f0f8131a348ee16d2f11}{%
+           family={O'Neill},
+           familyi={O\bibinitperiod},
+           given={S.\bibnamedelimi P.},
+           giveni={S\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=244ddf0de899a5db825c4143f4ae1f5d}{%
+           family={Bilinski},
+           familyi={B\bibinitperiod},
+           given={T.\bibnamedelimi M.},
+           giveni={T\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=4763a0c96c1462faab588c58faa7a0b2}{%
+           family={Stanish},
+           familyi={S\bibinitperiod},
+           given={L.\bibnamedelimi F.},
+           giveni={L\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=f8cca4e719d3fd9c1c2ea29bb9e2a974}{%
+           family={Knelman},
+           familyi={K\bibinitperiod},
+           given={J.\bibnamedelimi E.},
+           giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=70652b015f048c7052ba57a43e550a3e}{%
+           family={Darcy},
+           familyi={D\bibinitperiod},
+           given={J.\bibnamedelimi L.},
+           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=51434f2cfe99545d9d82e77651f7557c}{%
+           family={Lynch},
+           familyi={L\bibinitperiod},
+           given={R.\bibnamedelimi C.},
+           giveni={R\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=1d807261451b6bc8d94f0634e97fbb67}{%
+           family={Wickey},
+           familyi={W\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+        {{hash=516c0766ae97379b57c0dd2ce77d2bdc}{%
+           family={Ferrenberg},
+           familyi={F\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{86c9294c67d8441755f55ae204e9c455}
+      \strng{fullhash}{df54fcbcf730712ff7644a71c2756fa7}
+      \strng{bibnamehash}{df54fcbcf730712ff7644a71c2756fa7}
+      \strng{authorbibnamehash}{df54fcbcf730712ff7644a71c2756fa7}
+      \strng{authornamehash}{86c9294c67d8441755f55ae204e9c455}
+      \strng{authorfullhash}{df54fcbcf730712ff7644a71c2756fa7}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Microbiology and Molecular Biology Reviews}
+      \field{title}{{Patterns and Processes of Microbial Community Assembly}}
+      \field{year}{2013}
+      \keyw{coauthor}
+    \endentry
+    \entry{Schmidt2012}{article}{}
+      \name{author}{7}{}{%
+        {{hash=b3a172c81636a0730a4e8c1c99122f75}{%
+           family={Schmidt},
+           familyi={S\bibinitperiod},
+           given={Steve\bibnamedelima K.},
+           giveni={S\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=33b613943a0a0b184a3088ff787e5459}{%
+           family={Nemergut},
+           familyi={N\bibinitperiod},
+           given={Diana\bibnamedelima R.},
+           giveni={D\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=d5d8ee762b4258f16c14cb598894a80b}{%
+           family={Todd},
+           familyi={T\bibinitperiod},
+           given={Bryan\bibnamedelima T.},
+           giveni={B\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+        {{hash=31bcd6ee6ecba87912ab0bcdec907403}{%
+           family={Lynch},
+           familyi={L\bibinitperiod},
+           given={Ryan\bibnamedelima C.},
+           giveni={R\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=a552069d6dbaac22245e48e43900c9dc}{%
+           family={Darcy},
+           familyi={D\bibinitperiod},
+           given={John\bibnamedelima L.},
+           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=30dda08e3f7a450918ad75d9f8d55e2e}{%
+           family={Cleveland},
+           familyi={C\bibinitperiod},
+           given={Cory\bibnamedelima C.},
+           giveni={C\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=69a617c0830dbff0a485ac4eecc600ca}{%
+           family={King},
+           familyi={K\bibinitperiod},
+           given={Andrew\bibnamedelima J.},
+           giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \strng{namehash}{45947ff37f31d51c0ea27021b4bb1480}
+      \strng{fullhash}{bf68d90d832599ad0ba97d999083742e}
+      \strng{bibnamehash}{bf68d90d832599ad0ba97d999083742e}
+      \strng{authorbibnamehash}{bf68d90d832599ad0ba97d999083742e}
+      \strng{authornamehash}{45947ff37f31d51c0ea27021b4bb1480}
+      \strng{authorfullhash}{bf68d90d832599ad0ba97d999083742e}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Plant Ecology and Diversity}
+      \field{title}{{A simple method for determining limiting nutrients for photosynthetic crusts}}
+      \field{year}{2012}
+      \keyw{coauthor}
+    \endentry
+    \entry{Rhodes2012}{incollection}{}
+      \name{author}{6}{}{%
+        {{hash=8ef97cb3a7498c9395376011596f2383}{%
+           family={Rhodes},
+           familyi={R\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=119d9b42e16f953938c416a091d49ab0}{%
+           family={Knelman},
+           familyi={K\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=51434f2cfe99545d9d82e77651f7557c}{%
+           family={Lynch},
+           familyi={L\bibinitperiod},
+           given={R.\bibnamedelimi C.},
+           giveni={R\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=70652b015f048c7052ba57a43e550a3e}{%
+           family={Darcy},
+           familyi={D\bibinitperiod},
+           given={J.\bibnamedelimi L.},
+           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=293ca5a913d4713bac0e3afb54c7b603}{%
+           family={Nemergut},
+           familyi={N\bibinitperiod},
+           given={D.\bibnamedelimi R.},
+           giveni={D\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=c894de6685f2e352c1c173d46d1f02f4}{%
+           family={Schmidt},
+           familyi={S\bibinitperiod},
+           given={S.\bibnamedelimi K.},
+           giveni={S\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \strng{namehash}{a2e13ba21aaf64ff17eea36a0889328e}
+      \strng{fullhash}{fa5a496c1d6dbdad8b3b30784a85db04}
+      \strng{bibnamehash}{fa5a496c1d6dbdad8b3b30784a85db04}
+      \strng{authorbibnamehash}{fa5a496c1d6dbdad8b3b30784a85db04}
+      \strng{authornamehash}{a2e13ba21aaf64ff17eea36a0889328e}
+      \strng{authorfullhash}{fa5a496c1d6dbdad8b3b30784a85db04}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{The Prokaryotes: Prokaryotic Communities and Ecophysiology}
+      \field{isbn}{9783642301230}
+      \field{title}{{Alpine and arctic soil microbial communities}}
+      \field{year}{2012}
+      \keyw{coauthor}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
