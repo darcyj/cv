@@ -252,23 +252,23 @@
     \endentry
     \entry{Darcy2016}{article}{}
       \name{author}{2}{}{%
-        {{hash=61a50045d4d607e8b5cd67c2f17728a8}{%
+        {{hash=a552069d6dbaac22245e48e43900c9dc}{%
            family={Darcy},
            familyi={D\bibinitperiod},
-           given={J.L.},
-           giveni={J\bibinitperiod}}}%
-        {{hash=218b2b88d2be1f2c058b9ab0891cfa3c}{%
+           given={John\bibnamedelima L.},
+           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=136f09072d0d272d09bbc70de8177a5d}{%
            family={Schmidt},
            familyi={S\bibinitperiod},
-           given={S.K.},
-           giveni={S\bibinitperiod}}}%
+           given={Steven\bibnamedelima K.},
+           giveni={S\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
       }
-      \strng{namehash}{b5407b6bf80cc742efeaac3c15bd29f3}
-      \strng{fullhash}{b5407b6bf80cc742efeaac3c15bd29f3}
-      \strng{bibnamehash}{b5407b6bf80cc742efeaac3c15bd29f3}
-      \strng{authorbibnamehash}{b5407b6bf80cc742efeaac3c15bd29f3}
-      \strng{authornamehash}{b5407b6bf80cc742efeaac3c15bd29f3}
-      \strng{authorfullhash}{b5407b6bf80cc742efeaac3c15bd29f3}
+      \strng{namehash}{2b215ba160d0b802b05b6891240e3449}
+      \strng{fullhash}{2b215ba160d0b802b05b6891240e3449}
+      \strng{bibnamehash}{2b215ba160d0b802b05b6891240e3449}
+      \strng{authorbibnamehash}{2b215ba160d0b802b05b6891240e3449}
+      \strng{authornamehash}{2b215ba160d0b802b05b6891240e3449}
+      \strng{authorfullhash}{2b215ba160d0b802b05b6891240e3449}
       \field{sortinit}{6}
       \field{sortinithash}{57e57fb8451e7fcfa45d1e069f6d3136}
       \field{labelnamesource}{author}
@@ -352,6 +352,44 @@
       \field{year}{2011}
       \keyw{firstauthor}
     \endentry
+    \entry{Gendron2019}{article}{}
+      \name{author}{4}{}{%
+        {{hash=a19884227c1420b2e0475fead6747709}{%
+           family={Gendron},
+           familyi={G\bibinitperiod},
+           given={E.\bibnamedelimi M.\bibnamedelimi S.},
+           giveni={E\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=70652b015f048c7052ba57a43e550a3e}{%
+           family={Darcy},
+           familyi={D\bibinitperiod},
+           given={J.\bibnamedelimi L.},
+           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=c13512d2bc00ce023d0e52ecc6238e0c}{%
+           family={Hell},
+           familyi={H\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod}}}%
+        {{hash=c894de6685f2e352c1c173d46d1f02f4}{%
+           family={Schmidt},
+           familyi={S\bibinitperiod},
+           given={S.\bibnamedelimi K.},
+           giveni={S\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \strng{namehash}{17ec8eeaa78ee73615ab451b61ce2bcc}
+      \strng{fullhash}{e7974a8c6b5b6e08175b32604d788de7}
+      \strng{bibnamehash}{e7974a8c6b5b6e08175b32604d788de7}
+      \strng{authorbibnamehash}{e7974a8c6b5b6e08175b32604d788de7}
+      \strng{authornamehash}{17ec8eeaa78ee73615ab451b61ce2bcc}
+      \strng{authorfullhash}{e7974a8c6b5b6e08175b32604d788de7}
+      \field{sortinit}{9}
+      \field{sortinithash}{1dd72ab054147731c9d824b49aba0534}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Microbiology}
+      \field{title}{Structure of bacterial and eukaryote communities reflect in situ controls on community assembly in a high-alpine lake}
+      \field{year}{2019}
+      \keyw{coauthor}
+    \endentry
     \entry{Vimercati2019a}{article}{}
       \name{author}{3}{}{%
         {{hash=699d679c3f4f75652e99a1f5682eea89}{%
@@ -376,8 +414,8 @@
       \strng{authorbibnamehash}{7244c7cb528d83ca00bce654c4ea6c90}
       \strng{authornamehash}{7244c7cb528d83ca00bce654c4ea6c90}
       \strng{authorfullhash}{7244c7cb528d83ca00bce654c4ea6c90}
-      \field{sortinit}{9}
-      \field{sortinithash}{1dd72ab054147731c9d824b49aba0534}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Scientific Reports}
@@ -961,8 +999,8 @@
       \strng{authorbibnamehash}{78a58a4a900d4ae4d3579d8fac241bb1}
       \strng{authornamehash}{e7943fdb2166b2f592e6a297d9b492f9}
       \strng{authorfullhash}{78a58a4a900d4ae4d3579d8fac241bb1}
-      \field{sortinit}{1}
-      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Mycology}
@@ -1481,8 +1519,8 @@
       \strng{authorbibnamehash}{d1156de5787e009cc6ca25869aff3174}
       \strng{authornamehash}{125968f14e5c1149e91f507976983640}
       \strng{authorfullhash}{d1156de5787e009cc6ca25869aff3174}
-      \field{sortinit}{2}
-      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Frontiers in Microbiology}
