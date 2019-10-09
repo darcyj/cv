@@ -352,6 +352,54 @@
       \field{year}{2011}
       \keyw{firstauthor}
     \endentry
+    \entry{Sommers2019b}{article}{}
+      \name{author}{6}{}{%
+        {{hash=3443cadb093bb9bd1baf3bbc55d02470}{%
+           family={Sommers},
+           familyi={S\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+        {{hash=91f1071a1e566e8fd27d5a85298ed946}{%
+           family={Porazinska},
+           familyi={P\bibinitperiod},
+           given={D.\bibnamedelimi L.},
+           giveni={D\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=70652b015f048c7052ba57a43e550a3e}{%
+           family={Darcy},
+           familyi={D\bibinitperiod},
+           given={J.\bibnamedelimi L.},
+           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=1eedb0f9c2a54ae71d60d24b6b24343c}{%
+           family={Zamora},
+           familyi={Z\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod}}}%
+        {{hash=855a14927d98d40da663b344049471ce}{%
+           family={Fountain},
+           familyi={F\bibinitperiod},
+           given={A.\bibnamedelimi G.},
+           giveni={A\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=c894de6685f2e352c1c173d46d1f02f4}{%
+           family={Schmidt},
+           familyi={S\bibinitperiod},
+           given={S.\bibnamedelimi K.},
+           giveni={S\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \strng{namehash}{8ef02c86f54b2e5fb8b943809a9dc827}
+      \strng{fullhash}{bb4e286d8c24b19780d0f79d6202b2a1}
+      \strng{bibnamehash}{bb4e286d8c24b19780d0f79d6202b2a1}
+      \strng{authorbibnamehash}{bb4e286d8c24b19780d0f79d6202b2a1}
+      \strng{authornamehash}{8ef02c86f54b2e5fb8b943809a9dc827}
+      \strng{authorfullhash}{bb4e286d8c24b19780d0f79d6202b2a1}
+      \field{sortinit}{9}
+      \field{sortinithash}{1dd72ab054147731c9d824b49aba0534}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Polar Biology}
+      \field{title}{Experimental cryoconite holes as mesocosms for studying community ecology}
+      \field{year}{2019}
+      \keyw{coauthor}
+    \endentry
     \entry{Gendron2019}{article}{}
       \name{author}{4}{}{%
         {{hash=a19884227c1420b2e0475fead6747709}{%
@@ -381,8 +429,8 @@
       \strng{authorbibnamehash}{e7974a8c6b5b6e08175b32604d788de7}
       \strng{authornamehash}{17ec8eeaa78ee73615ab451b61ce2bcc}
       \strng{authorfullhash}{e7974a8c6b5b6e08175b32604d788de7}
-      \field{sortinit}{9}
-      \field{sortinithash}{1dd72ab054147731c9d824b49aba0534}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal of Microbiology}
@@ -941,8 +989,8 @@
       \strng{authorbibnamehash}{cc9b8107b41ec047f3e4de677473b7f2}
       \strng{authornamehash}{c180944b628581060e115553dd27035b}
       \strng{authorfullhash}{cc9b8107b41ec047f3e4de677473b7f2}
-      \field{sortinit}{1}
-      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Forests}
@@ -1472,8 +1520,8 @@
       \strng{authorbibnamehash}{f0fb6ceec67d7aa3cb59cb16b6dea387}
       \strng{authornamehash}{c75e234c4a854fb9e4d62abec6b0cca5}
       \strng{authorfullhash}{f0fb6ceec67d7aa3cb59cb16b6dea387}
-      \field{sortinit}{2}
-      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Molecular ecology}
@@ -1987,8 +2035,8 @@
       \strng{authorbibnamehash}{fa5a496c1d6dbdad8b3b30784a85db04}
       \strng{authornamehash}{a2e13ba21aaf64ff17eea36a0889328e}
       \strng{authorfullhash}{fa5a496c1d6dbdad8b3b30784a85db04}
-      \field{sortinit}{3}
-      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{sortinit}{4}
+      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{The Prokaryotes: Prokaryotic Communities and Ecophysiology}
