@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2019/dev/Debian) (preloaded format=xelatex 2019.5.20)  9 OCT 2019 17:35
+This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2019/dev/Debian) (preloaded format=xelatex 2019.5.20)  15 OCT 2019 13:48
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1122,4 +1122,4 @@ Here is how much of TeX's memory you used:
  14 hyphenation exceptions out of 8191
  46i,9n,60p,971b,4712s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on jld_cv.xdv (4 pages, 169316 bytes).
+Output written on jld_cv.xdv (4 pages, 169284 bytes).
