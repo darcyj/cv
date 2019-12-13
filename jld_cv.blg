@@ -1,15 +1,15 @@
 [0] Config.pm:302> INFO - This is Biber 2.11
 [0] Config.pm:305> INFO - Logfile is 'jld_cv.blg'
-[29] biber:313> INFO - === Wed Oct  9, 2019, 17:30:51
-[48] Biber.pm:371> INFO - Reading 'jld_cv.bcf'
-[111] Biber.pm:854> INFO - Using all citekeys in bib section 0
-[125] Biber.pm:3976> INFO - Processing section 0
-[135] Biber.pm:4136> INFO - Looking for bibtex format file 'allrefs.bib' for section 0
-[136] bibtex.pm:1489> INFO - LaTeX decoding ...
-[189] bibtex.pm:1305> INFO - Found BibTeX data source 'allrefs.bib'
-[695] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[695] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[695] Biber.pm:3804> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-US'
-[695] Biber.pm:3810> INFO - No sort tailoring available for locale 'en-US'
-[724] bbl.pm:617> INFO - Writing 'jld_cv.bbl' with encoding 'UTF-8'
-[744] bbl.pm:720> INFO - Output to jld_cv.bbl
+[31] biber:313> INFO - === Fri Dec 13, 2019, 14:22:24
+[50] Biber.pm:371> INFO - Reading 'jld_cv.bcf'
+[115] Biber.pm:854> INFO - Using all citekeys in bib section 0
+[129] Biber.pm:3976> INFO - Processing section 0
+[139] Biber.pm:4136> INFO - Looking for bibtex format file 'allrefs.bib' for section 0
+[141] bibtex.pm:1489> INFO - LaTeX decoding ...
+[193] bibtex.pm:1305> INFO - Found BibTeX data source 'allrefs.bib'
+[690] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[690] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[690] Biber.pm:3804> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-US'
+[690] Biber.pm:3810> INFO - No sort tailoring available for locale 'en-US'
+[718] bbl.pm:617> INFO - Writing 'jld_cv.bbl' with encoding 'UTF-8'
+[737] bbl.pm:720> INFO - Output to jld_cv.bbl
