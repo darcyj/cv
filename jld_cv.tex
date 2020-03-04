@@ -75,10 +75,11 @@
 %\centerline{\Huge\center\textbf{John L. Darcy, PhD}}
 {\Huge \textbf{John L. Darcy, PhD}}
 \hfill
-\emph{Curriculum Vitae}
+\emph{Curriculum Vitae (\today)}
 \vspace{1mm}
 \hrule
 \vspace{2mm}
+
 \begin{adjustwidth}{5mm}{}
   \begin{multicols}{3}
     \faPhone \space +1 (303) 887 - 0477\\
@@ -112,7 +113,7 @@
   \item PhD in Ecology and Evolutionary Biology from University of Colorado, Boulder (2017). Partly done at Duke University. Dissertation title: Biogeographic and biogeochemical drivers of microbial community assembly. Advised by Steve Schmidt (Boulder) and Diana Nemergut (Duke). 
   \item BA in Molecular, Cellular, and Developmental Biology (2010).
 \end{itemize}
-%%
+% first author citations - found in allrefs.bib tagged with keywords = {firstauthor}
 \vspace{2mm}
 {\large  \textbf{First-Author Publications}}\space\emph{(incl.\ equal contribution of first two authors)}
 \vspace{-1em}\vspace{1mm}
@@ -121,7 +122,7 @@
 	\nocite{*}
 	\printbibliography[keyword=firstauthor, heading=none]
 \endgroup
-%
+% coauthor citations - found in allrefs.bib tagged with keywords = {coauthor}
 \vspace{-1em}\vspace{3mm}
 {\large  \textbf{Co-Author Publications}}
 \vspace{-1em}\vspace{1mm}
@@ -143,7 +144,7 @@
     \end{itemize}
   \end{multicols}
 \end{adjustwidth}
-\vspace{3mm}\filbreak
+\vspace{3mm}
 {\large  \textbf{Mentorship}}
 \begin{itemize}[noitemsep,topsep=0pt, leftmargin=5mm]
   \item Mentored Marshall M, an undergraduate student as part of CU Anschutz Summer Bioinformatics Fellowship. I mentored student in developing a computer program that analyzes microbial communities in a competitive-lottery framework. Student is preparing software for pulic release, and will write a release note for publication.
@@ -178,6 +179,8 @@ Also wrote weekly quizzes and gave recitation. Two-hour periods with 18 students
 \vspace{3mm}
 {\large  \textbf{Presentations and Posters}}
 \begin{itemize}[noitemsep,topsep=0pt, leftmargin=5mm]
+  \item Nepotism and Specificity In the human microbiome (Invited talk, 2020). CU Anschutz Computational Biology seminar series. Aurora, Colorado.
+  \item What are compositional data and why do I care? (Invited talk, 2020). CU Anschutz Computational Biology seminar series. Aurora, Colorado.
   \item A phylogenetic model for the arrival of species into microbial communities (Invited talk, 2019). NIH NLM Computational Biology Training Conference. Indianapolis, Indiana.
   \item Specificity analysis of microbiome data: All the math (Chalk talk, 2019). CU Anschutz Microbiome group chalk talk.
   \item Monte Carlo analysis of Foliar Fungal Endophytes reveals habitat specificity to elevation, precipitation, and host plants (Seminar, 2019). Hawaii Ecosystems Conferencein  Hilo, Hawaii.
@@ -189,23 +192,10 @@ Also wrote weekly quizzes and gave recitation. Two-hour periods with 18 students
   \item Identification and characterization of microbial communities in high-elevation snowpacks (Poster, 2013). LTER meeting 2013 in Estes Park, CO.
   \item Comparing spatial distributions of microorganisms using minimal genetic distance. ASM General Meeting 2012 in San Francisco, CA.
 \end{itemize}
-\vspace{3mm}\filbreak
-{\large  \textbf{Programming Languages}}
-\\\begin{tabular}{l l l}
-  Language & Proficiency & Example\\
-  \hline
-  R & (expert) & \href{https://github.com/darcyj/specificity}{github.com/darcyj/specificity}\\
-  C\# & (advanced) & \href{https://github.com/darcyj/XtendR_Csharp}{github.com/darcyj/XtendR\_Csharp}\\
-  Bash shell & (advanced) & \href{https://github.com/darcyj/fasta-scripts}{github.com/darcyj/fasta-scripts}\\
-  C++ & (intermediate) & \href{https://github.com/darcyj/specificity}{github.com/darcyj/specificity}\\ 
-  Python & (intermediate) & \href{ https://github.com/mmarshall124/powerball}{github.com/mmarshall124/powerball}\\
-  \LaTeX & (beginner) & \href{https://github.com/darcyj/cv}{github.com/darcyj/cv}\\
-  HTML+CSS & (beginner) & \url{jldarcy.tk}\\
-\end{tabular}
-\vspace{3mm}
+
+\pagebreak
 
 {\large  \textbf{Data and Analytical Skillset}}
-
   \begin{adjustwidth}{2mm}{}\begin{multicols}{2}
     % column 1:
     Spatial analyisis \cite{Darcy2018a,Darcy2011a,Darcy640029}\\
@@ -229,6 +219,20 @@ Also wrote weekly quizzes and gave recitation. Two-hour periods with 18 students
 
   \end{multicols}\end{adjustwidth}
 
+{\large  \textbf{Programming Languages}}
+\\\begin{tabular}{l l l}
+  Language & Proficiency & Example\\
+  \hline
+  R & (expert) & \href{https://github.com/darcyj/specificity}{github.com/darcyj/specificity}\\
+  C\# & (advanced) & \href{https://github.com/darcyj/XtendR_Csharp}{github.com/darcyj/XtendR\_Csharp}\\
+  Shell/Bash & (advanced) & \href{https://github.com/darcyj/fasta-scripts}{github.com/darcyj/fasta-scripts}\\
+  C++ & (intermediate) & \href{https://github.com/darcyj/specificity}{github.com/darcyj/specificity}\\ 
+  Python & (intermediate) & \href{ https://github.com/mmarshall124/powerball}{github.com/mmarshall124/powerball}\\
+  \LaTeX & (beginner) & \href{https://github.com/darcyj/cv}{github.com/darcyj/cv}\\
+  HTML+CSS & (beginner) & \href{jldarcy.tk}{jldarcy.tk}\\
+\end{tabular}
+
+\vspace{3mm}
 {\large  \textbf{Software knowledge}}
   \begin{adjustwidth}{2mm}{}\begin{multicols}{3}
     % column 1:
@@ -236,20 +240,18 @@ Also wrote weekly quizzes and gave recitation. Two-hour periods with 18 students
     Slurm\\
     qGIS\\
     Rstudio\\
-
     % column 2:
     Microsoft Windows\\
     Microsoft Office (Word, Excel, Ppt)\\
     Adobe Illustrator\\
     Sublime Text\\
-
     % column 3:
     High performance computing (HPC)\\
     Libre Office (Writer, Calc)\\
     Adobe Photoshop\\
     MonoDevelop\\
   \end{multicols}\end{adjustwidth}
-
+\vspace{3mm}
 
 {\large  \textbf{Peer-Review}}\\
 Journals I've peer-reviewed for are listed on my \href{https://publons.com/researcher/1262170/john-l-darcy/peer-review/}{Publons} profile (slow to update). 
