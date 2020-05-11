@@ -69,8 +69,11 @@
   %
   % this puts my info at the bottom of the page next to the page number, so multiple sheets don't get mixed up
   \renewcommand{\thepage}{John L. Darcy~--~\arabic{page}}
-  %
-\begin{document}
+  % this defines yen symbol as \yen : yen mark (taken from ascmac.sty for jlatex)
+  \def\yen{{\setbox0=\hbox{Y}Y\kern-.97\wd0\vbox{\hrule height.1ex
+  width.98\wd0\kern.33ex\hrule height.1ex width.98\wd0\kern.45ex}}}
+  % actually begin document
+  \begin{document}
 
 %\centerline{\Huge\center\textbf{John L. Darcy, PhD}}
 {\Huge \textbf{John L. Darcy, PhD}}
@@ -84,7 +87,7 @@
   \begin{multicols}{3}
     \faPhone \space +1 (303) 887 - 0477\\
     \faEnvelope \space \href{mailto:darcyj@colorado.edu}{darcyj@colorado.edu}\\
-    \faGlobe \space \href{http://www.jldarcy.tk/}{jldarcy.tk}\\
+    \faGlobe \space \href{http://www.jldarcy.tk/}{jldarcy.com}\\
     \faGithub \space \href{https://github.com/darcyj}{github.com/darcyj}\\
     \faInstagram/\faTwitter \space \href{https://www.instagram.com/jld.adventures/}{@JohnLDarcy}\\
     \faMortarBoard \space \href{https://scholar.google.com/citations?user=z24F3PYAAAAJ}{Google Scholar link}
@@ -137,9 +140,9 @@
 \begin{adjustwidth}{5mm}{}
   \begin{multicols}{2}
     \begin{itemize}[noitemsep,topsep=0pt, leftmargin=0mm]
-      \item 38 published papers
-      \item 1229 citations (as of March 2020)
-      \item h-index = 15
+      \item 40 published papers
+      \item 1296 citations (as of May 2020)
+      \item h-index = 16
       \item i10-index = 22
     \end{itemize}
   \end{multicols}
@@ -170,7 +173,7 @@ Also wrote weekly quizzes and gave recitation. Two-hour periods with 18 students
 \begin{itemize}[noitemsep,topsep=0pt, leftmargin=5mm]
   \item NIH NLM Computational Biology Postdoctoral Fellowship (present position).
   \item 2019 Front Range Microbiome Symposium award for best poster presentation. \$100.
-  \item International Geological Society travel grant. Kyoto, Japan, December 2017. ¥100,000.
+  \item International Geological Society travel grant. Kyoto, Japan, December 2017. \yen100,000.
   \item Mycological Society of America travel award. San Juan, Puerto Rico, December 2017. \$2,500.
   \item SCAR XIIth International Biology Symposium Travel Grant. KU Leuven, December 2016. \$2,500.
   \item Remote (control) sensing: using a drone for environmental science. CU EBIO grant, April 2014. \$992.
@@ -258,6 +261,7 @@ Journals I've peer-reviewed for are listed on my \href{https://publons.com/resea
 \\\begin{tabular}{l l l}
   Journal & Number of Reviews & Recency\\
   \hline
+  npj Biofilms and Microbiomes & 1 & 2020\\
   Nature Communications & 1 & 2019\\
   PeerJ & 2 & 2019\\
   Plant and Soil & 1 & 2019\\

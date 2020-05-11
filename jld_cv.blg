@@ -1,43 +1,42 @@
-[0] Config.pm:302> INFO - This is Biber 2.11
+[0] Config.pm:302> INFO - This is Biber 2.9
 [0] Config.pm:305> INFO - Logfile is 'jld_cv.blg'
-[30] biber:313> INFO - === Fri Mar  6, 2020, 13:30:37
-[49] Biber.pm:371> INFO - Reading 'jld_cv.bcf'
-[114] Biber.pm:854> INFO - Using all citekeys in bib section 0
-[127] Biber.pm:3976> INFO - Processing section 0
-[137] Biber.pm:4136> INFO - Looking for bibtex format file 'allrefs.bib' for section 0
-[139] bibtex.pm:1489> INFO - LaTeX decoding ...
-[183] bibtex.pm:1305> INFO - Found BibTeX data source 'allrefs.bib'
-[185] Utils.pm:193> WARN - Duplicate entry key: 'Sommers2019b' in file 'allrefs.bib', skipping ...
-[630] Utils.pm:193> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
-[630] Utils.pm:193> WARN - BibTeX subsystem: author, warning: comma(s) at end of name (removing)
-[630] Utils.pm:193> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
-[630] Utils.pm:193> WARN - BibTeX subsystem: author, warning: comma(s) at end of name (removing)
-[630] Utils.pm:193> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
-[631] Utils.pm:193> WARN - BibTeX subsystem: author, warning: comma(s) at end of name (removing)
-[631] Utils.pm:193> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
-[631] Utils.pm:193> WARN - BibTeX subsystem: author, warning: comma(s) at end of name (removing)
-[631] Utils.pm:193> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
-[631] Utils.pm:193> WARN - BibTeX subsystem: author, warning: comma(s) at end of name (removing)
-[631] Utils.pm:193> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
-[631] Utils.pm:193> WARN - BibTeX subsystem: author, warning: comma(s) at end of name (removing)
-[631] Utils.pm:193> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
-[631] Utils.pm:193> WARN - BibTeX subsystem: author, warning: comma(s) at end of name (removing)
-[631] Utils.pm:193> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
-[631] Utils.pm:193> WARN - BibTeX subsystem: author, warning: comma(s) at end of name (removing)
-[631] Utils.pm:193> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
-[632] Utils.pm:193> WARN - BibTeX subsystem: author, warning: comma(s) at end of name (removing)
-[632] Utils.pm:193> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
-[632] Utils.pm:193> WARN - BibTeX subsystem: author, warning: comma(s) at end of name (removing)
-[632] Utils.pm:193> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
-[632] Utils.pm:193> WARN - BibTeX subsystem: author, warning: comma(s) at end of name (removing)
-[632] Utils.pm:193> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
-[632] Utils.pm:193> WARN - BibTeX subsystem: author, warning: comma(s) at end of name (removing)
-[632] Utils.pm:193> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
-[632] Utils.pm:193> WARN - BibTeX subsystem: author, warning: comma(s) at end of name (removing)
-[667] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[667] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[667] Biber.pm:3804> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-US'
-[667] Biber.pm:3810> INFO - No sort tailoring available for locale 'en-US'
-[692] bbl.pm:617> INFO - Writing 'jld_cv.bbl' with encoding 'UTF-8'
-[712] bbl.pm:720> INFO - Output to jld_cv.bbl
-[712] Biber.pm:110> INFO - WARNINGS: 27
+[34] biber:313> INFO - === Mon May 11, 2020, 16:26:42
+[55] Biber.pm:371> INFO - Reading 'jld_cv.bcf'
+[116] Biber.pm:854> INFO - Using all citekeys in bib section 0
+[131] Biber.pm:3981> INFO - Processing section 0
+[142] Biber.pm:4154> INFO - Looking for bibtex format file 'allrefs.bib' for section 0
+[144] bibtex.pm:1468> INFO - LaTeX decoding ...
+[182] bibtex.pm:1294> INFO - Found BibTeX data source 'allrefs.bib'
+[645] Utils.pm:169> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
+[645] Utils.pm:169> WARN - BibTeX subsystem: author, warning: comma(s) at end of name (removing)
+[645] Utils.pm:169> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
+[645] Utils.pm:169> WARN - BibTeX subsystem: author, warning: comma(s) at end of name (removing)
+[646] Utils.pm:169> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
+[646] Utils.pm:169> WARN - BibTeX subsystem: author, warning: comma(s) at end of name (removing)
+[646] Utils.pm:169> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
+[646] Utils.pm:169> WARN - BibTeX subsystem: author, warning: comma(s) at end of name (removing)
+[646] Utils.pm:169> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
+[646] Utils.pm:169> WARN - BibTeX subsystem: author, warning: comma(s) at end of name (removing)
+[646] Utils.pm:169> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
+[646] Utils.pm:169> WARN - BibTeX subsystem: author, warning: comma(s) at end of name (removing)
+[646] Utils.pm:169> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
+[646] Utils.pm:169> WARN - BibTeX subsystem: author, warning: comma(s) at end of name (removing)
+[646] Utils.pm:169> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
+[646] Utils.pm:169> WARN - BibTeX subsystem: author, warning: comma(s) at end of name (removing)
+[646] Utils.pm:169> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
+[646] Utils.pm:169> WARN - BibTeX subsystem: author, warning: comma(s) at end of name (removing)
+[646] Utils.pm:169> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
+[647] Utils.pm:169> WARN - BibTeX subsystem: author, warning: comma(s) at end of name (removing)
+[647] Utils.pm:169> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
+[647] Utils.pm:169> WARN - BibTeX subsystem: author, warning: comma(s) at end of name (removing)
+[647] Utils.pm:169> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
+[647] Utils.pm:169> WARN - BibTeX subsystem: author, warning: comma(s) at end of name (removing)
+[647] Utils.pm:169> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
+[647] Utils.pm:169> WARN - BibTeX subsystem: author, warning: comma(s) at end of name (removing)
+[683] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[683] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[684] Biber.pm:3809> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-US'
+[684] Biber.pm:3815> INFO - No sort tailoring available for locale 'en-US'
+[710] bbl.pm:617> INFO - Writing 'jld_cv.bbl' with encoding 'UTF-8'
+[730] bbl.pm:720> INFO - Output to jld_cv.bbl
+[730] Biber.pm:110> INFO - WARNINGS: 26

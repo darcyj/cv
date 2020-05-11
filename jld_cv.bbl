@@ -454,6 +454,87 @@
       \field{year}{2019}
       \keyw{coauthor}
     \endentry
+    \entry{Sommers2019c}{article}{}
+      \name{author}{6}{}{%
+        {{hash=3443cadb093bb9bd1baf3bbc55d02470}{%
+           family={Sommers},
+           familyi={S\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+        {{hash=91f1071a1e566e8fd27d5a85298ed946}{%
+           family={Porazinska},
+           familyi={P\bibinitperiod},
+           given={D.\bibnamedelimi L.},
+           giveni={D\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=70652b015f048c7052ba57a43e550a3e}{%
+           family={Darcy},
+           familyi={D\bibinitperiod},
+           given={J.\bibnamedelimi L.},
+           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=1eedb0f9c2a54ae71d60d24b6b24343c}{%
+           family={Zamora},
+           familyi={Z\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod}}}%
+        {{hash=855a14927d98d40da663b344049471ce}{%
+           family={Fountain},
+           familyi={F\bibinitperiod},
+           given={A.\bibnamedelimi G.},
+           giveni={A\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=c894de6685f2e352c1c173d46d1f02f4}{%
+           family={Schmidt},
+           familyi={S\bibinitperiod},
+           given={S.\bibnamedelimi K.},
+           giveni={S\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \strng{namehash}{8ef02c86f54b2e5fb8b943809a9dc827}
+      \strng{fullhash}{bb4e286d8c24b19780d0f79d6202b2a1}
+      \strng{bibnamehash}{bb4e286d8c24b19780d0f79d6202b2a1}
+      \strng{authorbibnamehash}{bb4e286d8c24b19780d0f79d6202b2a1}
+      \strng{authornamehash}{8ef02c86f54b2e5fb8b943809a9dc827}
+      \strng{authorfullhash}{bb4e286d8c24b19780d0f79d6202b2a1}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Polar Biol}
+      \field{title}{Experimental cryoconite holes as mesocosms for studying community ecology}
+      \field{year}{2019}
+      \keyw{coauthor}
+    \endentry
+    \entry{Bowen2019}{article}{}
+      \name{author}{3}{}{%
+        {{hash=3e1a46b7261c0ddb848ce19637bf5903}{%
+           family={Bowen},
+           familyi={B\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod}}}%
+        {{hash=61a50045d4d607e8b5cd67c2f17728a8}{%
+           family={Darcy},
+           familyi={D\bibinitperiod},
+           given={J.L.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=218b2b88d2be1f2c058b9ab0891cfa3c}{%
+           family={Schmidt},
+           familyi={S\bibinitperiod},
+           given={S.K.},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{face512546989863d5b17f73890ea8a7}
+      \strng{fullhash}{face512546989863d5b17f73890ea8a7}
+      \strng{bibnamehash}{face512546989863d5b17f73890ea8a7}
+      \strng{authorbibnamehash}{face512546989863d5b17f73890ea8a7}
+      \strng{authornamehash}{face512546989863d5b17f73890ea8a7}
+      \strng{authorfullhash}{face512546989863d5b17f73890ea8a7}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Science}
+      \field{title}{RE: Pika's cold adaptation a liability with climate change}
+      \field{year}{2019}
+      \keyw{coauthor}
+    \endentry
     \entry{Gendron2019}{article}{}
       \name{author}{4}{}{%
         {{hash=a19884227c1420b2e0475fead6747709}{%
@@ -859,8 +940,8 @@
       \strng{authorbibnamehash}{2bbcbb4470c0013fc143d4fd4439a0e8}
       \strng{authornamehash}{08b027c94acc1665f523d882704bfd15}
       \strng{authorfullhash}{2bbcbb4470c0013fc143d4fd4439a0e8}
-      \field{sortinit}{1}
-      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Microb Ecol}
@@ -922,8 +1003,8 @@
       \strng{authorbibnamehash}{9cfaccefc78e8afc2a81f26f462a1400}
       \strng{authornamehash}{7e434235afae794de7cee966324dfbba}
       \strng{authorfullhash}{9cfaccefc78e8afc2a81f26f462a1400}
-      \field{sortinit}{1}
-      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Environ Sci Pollut R}
@@ -1414,8 +1495,8 @@
       \strng{authorbibnamehash}{07891b4aae7e35076035b561a7cc1e44}
       \strng{authornamehash}{07891b4aae7e35076035b561a7cc1e44}
       \strng{authorfullhash}{07891b4aae7e35076035b561a7cc1e44}
-      \field{sortinit}{2}
-      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Polar Biol}
@@ -1467,8 +1548,8 @@
       \strng{authorbibnamehash}{fc372c3e18d17dbc788653f9552e7df5}
       \strng{authornamehash}{8265fd3b1b57490dcf14aac6c02930c8}
       \strng{authorfullhash}{fc372c3e18d17dbc788653f9552e7df5}
-      \field{sortinit}{2}
-      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{PloS one}
@@ -1884,8 +1965,8 @@
       \strng{authorbibnamehash}{fa5a496c1d6dbdad8b3b30784a85db04}
       \strng{authornamehash}{a2e13ba21aaf64ff17eea36a0889328e}
       \strng{authorfullhash}{fa5a496c1d6dbdad8b3b30784a85db04}
-      \field{sortinit}{3}
-      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{sortinit}{4}
+      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{The Prokaryotes}
