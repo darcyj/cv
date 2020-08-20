@@ -110,9 +110,9 @@
       \field{sortinithash}{cbff857e587bcb4635511624d773949e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{bioRxiv}
-      \field{title}{Fungal communities living within leaves of native Hawaiian dicots are structured by landscape-scale variables as well as by host plants (preprint)}
-      \field{year}{2019}
+      \field{journaltitle}{Mol Ecol}
+      \field{title}{Fungal communities living within leaves of native Hawaiian dicots are structured by landscape-scale variables as well as by host plants}
+      \field{year}{2020}
       \keyw{firstauthor}
     \endentry
     \entry{Darcy2018a}{article}{}
@@ -343,6 +343,70 @@
       \field{year}{2011}
       \keyw{firstauthor}
     \endentry
+    \entry{schmidt2020}{incollection}{}
+      \name{author}{9}{}{%
+        {{hash=c894de6685f2e352c1c173d46d1f02f4}{%
+           family={Schmidt},
+           familyi={S\bibinitperiod},
+           given={S.\bibnamedelimi K.},
+           giveni={S\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=e2c9f5c6a21e82405a1356fc9123f3f3}{%
+           family={Sowell},
+           familyi={S\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+        {{hash=b4d34b6bb6a5d235469c71a662e7aae5}{%
+           family={Schubert},
+           familyi={S\bibinitperiod},
+           given={Z.\bibnamedelimi R.},
+           giveni={Z\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=699d679c3f4f75652e99a1f5682eea89}{%
+           family={Vimercati},
+           familyi={V\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod}}}%
+        {{hash=58531d4cabf7de0157efe618f0065e80}{%
+           family={Solon},
+           familyi={S\bibinitperiod},
+           given={A.\bibnamedelimi J.},
+           giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=91f1071a1e566e8fd27d5a85298ed946}{%
+           family={Porazinska},
+           familyi={P\bibinitperiod},
+           given={D.\bibnamedelimi L.},
+           giveni={D\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=3443cadb093bb9bd1baf3bbc55d02470}{%
+           family={Sommers},
+           familyi={S\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+        {{hash=70652b015f048c7052ba57a43e550a3e}{%
+           family={Darcy},
+           familyi={D\bibinitperiod},
+           given={J.\bibnamedelimi L.},
+           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=a19884227c1420b2e0475fead6747709}{%
+           family={Gendron},
+           familyi={G\bibinitperiod},
+           given={E.\bibnamedelimi M.\bibnamedelimi S.},
+           giveni={E\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \strng{namehash}{e985de40e1f3ea4a3cdac287179f70ee}
+      \strng{fullhash}{058eb12e05986be0cbfb7b5516077c22}
+      \strng{bibnamehash}{058eb12e05986be0cbfb7b5516077c22}
+      \strng{authorbibnamehash}{058eb12e05986be0cbfb7b5516077c22}
+      \strng{authornamehash}{e985de40e1f3ea4a3cdac287179f70ee}
+      \strng{authorfullhash}{058eb12e05986be0cbfb7b5516077c22}
+      \field{sortinit}{9}
+      \field{sortinithash}{1dd72ab054147731c9d824b49aba0534}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Microbial Ecosystems in Central Andes Extreme Environments}
+      \field{isbn}{978-3-030-36192-1}
+      \field{title}{{ Of Microbes and Mummies: Tales of Microbial Activity and Inactivity at 6000 masl}}
+      \field{year}{2020}
+      \keyw{coauthor}
+    \endentry
     \entry{Bueno2020}{article}{}
       \name{author}{7}{}{%
         {{hash=28dcb1fc7b65a86eccb940250e00ee90}{%
@@ -387,8 +451,8 @@
       \strng{authorbibnamehash}{c9d0e8f66bc9b23a011b89b5bbf0098f}
       \strng{authornamehash}{677e2699b35ca1c28d30ef1ba59c07f3}
       \strng{authorfullhash}{c9d0e8f66bc9b23a011b89b5bbf0098f}
-      \field{sortinit}{9}
-      \field{sortinithash}{1dd72ab054147731c9d824b49aba0534}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Biogeochem}
@@ -882,8 +946,8 @@
       \strng{authorbibnamehash}{bb179d0c3afd7d12ebee657cb037bba1}
       \strng{authornamehash}{e985de40e1f3ea4a3cdac287179f70ee}
       \strng{authorfullhash}{bb179d0c3afd7d12ebee657cb037bba1}
-      \field{sortinit}{1}
-      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Anton Leeuw Int J G}
@@ -1467,8 +1531,8 @@
       \strng{authorbibnamehash}{1445fcba7d226903965741d99fd32a82}
       \strng{authornamehash}{1a41f5a59dc87c0c7c1b11af816ec300}
       \strng{authorfullhash}{1445fcba7d226903965741d99fd32a82}
-      \field{sortinit}{2}
-      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{ISME J}
@@ -1917,8 +1981,8 @@
       \strng{authorbibnamehash}{bf68d90d832599ad0ba97d999083742e}
       \strng{authornamehash}{45947ff37f31d51c0ea27021b4bb1480}
       \strng{authorfullhash}{bf68d90d832599ad0ba97d999083742e}
-      \field{sortinit}{3}
-      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{sortinit}{4}
+      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Plant Ecol Div}
