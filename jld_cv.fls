@@ -72,6 +72,14 @@ INPUT /usr/share/texlive/texmf-dist/tex/latex/base/ot1enc.dfu
 INPUT /usr/share/texlive/texmf-dist/tex/latex/base/ot1enc.dfu
 INPUT /usr/share/texlive/texmf-dist/tex/latex/base/omsenc.dfu
 INPUT /usr/share/texlive/texmf-dist/tex/latex/base/omsenc.dfu
+INPUT /usr/share/texlive/texmf-dist/tex/latex/float/float.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/float/float.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/caption/subcaption.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/caption/subcaption.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
@@ -156,6 +164,12 @@ INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmcsc10.tfm
 INPUT /var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map
 INPUT /usr/share/texlive/texmf-dist/tex/latex/base/omlcmr.fd
 INPUT /usr/share/texlive/texmf-dist/tex/latex/base/omlcmr.fd
+INPUT /home/jack/Documents/cv/jld_cv/pix/at_canada_term_2016.jpg
+INPUT /home/jack/Documents/cv/jld_cv/pix/at_canada_term_2016.jpg
+INPUT /home/jack/Documents/cv/jld_cv/pix/at_canada_term_2016.jpg
+INPUT /home/jack/Documents/cv/jld_cv/pix/penitentes_2016.jpg
+INPUT /home/jack/Documents/cv/jld_cv/pix/penitentes_2016.jpg
+INPUT /home/jack/Documents/cv/jld_cv/pix/penitentes_2016.jpg
 INPUT /home/jack/Documents/cv/jld_cv/jld_cv.aux
 INPUT /home/jack/Documents/cv/jld_cv/jld_cv.out
 INPUT /home/jack/Documents/cv/jld_cv/jld_cv.out

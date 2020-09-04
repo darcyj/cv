@@ -14,6 +14,9 @@
   \usepackage{changepage} % for the adjustwidth environment
   \usepackage{enumitem} % makes bulleted lists
   \usepackage[utf8]{inputenc} % for utf8 characters like ʻokina
+  \usepackage[demo]{float}    % used for figures
+  \usepackage{caption}        % used for figures
+  \usepackage{subcaption}     % used for figures
   \setlength\parindent{0pt} % no indentation allowed
   %
   \setlength{\multicolsep}{0pt}% remove vertical space for multiple columns
@@ -335,10 +338,27 @@ Journals I've peer-reviewed for are listed on my \href{https://publons.com/resea
   \item Extemporaneous experimental design under hypoxic conditions.
   \item Logistic coordination with indigenous peoples in the Peruvian Andes.
   \item Extended backpacking campaigns above 5000 masl.
-  \item Experience in Antarctica’s McMurdo Dry Valleys, including helicopter travel and glacier traverse.
+  \item Experience in Antarctica’s McMurdo Dry Valleys, including helicopter travel, ice climbing, and glacier traverse.
   \item Rainforest backpacking and sample collection in Hawaii.
 
 \end{itemize}
+
+\vspace{3mm}
+\captionsetup[figure]{labelformat=empty} % gets rid of "Figure 1" in captions
+{\large  \textbf{Photos}}
+\begin{figure}[H]
+  \begin{minipage}{0.47\textwidth}
+    \includegraphics[width=\linewidth]{pix/at_canada_term_2016.jpg}
+    \caption{Standing at the terminus of the Canada Glacier in the McMurdo Dry Valleys, Antarctica.}
+    \end{minipage}
+  \hspace{\fill} % note: no blank line here
+  \begin{minipage}{0.47\textwidth}
+    \includegraphics[width=\linewidth]{pix/penitentes_2016.jpg}
+    \caption{My labmate Lara and I amongst penitentes on the stratovolcano Llullaillaco in the Chilean Andes.}
+    \end{minipage}
+\end{figure}
+
+
 
 
 \end{document}
