@@ -343,6 +343,135 @@
       \field{year}{2011}
       \keyw{firstauthor}
     \endentry
+    \entry{Darcy2021}{article}{}
+      \name{author}{4}{}{%
+        {{hash=70652b015f048c7052ba57a43e550a3e}{%
+           family={Darcy},
+           familyi={D\bibinitperiod},
+           given={J.\bibnamedelimi L.},
+           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=b8dd5a843acdec1c8ce64de49f605782}{%
+           family={Swift},
+           familyi={S\bibinitperiod},
+           given={S.\bibnamedelimi O.\bibnamedelimi I.},
+           giveni={S\bibinitperiod\bibinitdelim O\bibinitperiod\bibinitdelim I\bibinitperiod}}}%
+        {{hash=cb60bbea3357957868f840a2bd29b608}{%
+           family={Amend},
+           familyi={A\bibinitperiod},
+           given={A.\bibnamedelimi S.},
+           giveni={A\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=e81888cc96119b16fe589b477e3e4312}{%
+           family={Lozupone},
+           familyi={L\bibinitperiod},
+           given={C.A.},
+           giveni={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{f5c91a8ea17ed895631c28592b31664d}
+      \strng{fullhash}{f4c1547e2d9629ee3f03b2ac5ccdade0}
+      \strng{bibnamehash}{f4c1547e2d9629ee3f03b2ac5ccdade0}
+      \strng{authorbibnamehash}{f4c1547e2d9629ee3f03b2ac5ccdade0}
+      \strng{authornamehash}{f5c91a8ea17ed895631c28592b31664d}
+      \strng{authorfullhash}{f4c1547e2d9629ee3f03b2ac5ccdade0}
+      \field{sortinit}{9}
+      \field{sortinithash}{1dd72ab054147731c9d824b49aba0534}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{In prep}
+      \field{title}{{Generalized specificity analysis for microbial communities, with examples from Hawaiian foliar endophytic fungi, Antarctic glacier bacteria, and the human gut microbiome.}}
+      \field{year}{2021}
+      \keyw{firstauthor}
+    \endentry
+    \entry{porazinska2020}{incollection}{}
+      \name{author}{5}{}{%
+        {{hash=91f1071a1e566e8fd27d5a85298ed946}{%
+           family={Porazinska},
+           familyi={P\bibinitperiod},
+           given={D.\bibnamedelimi L.},
+           giveni={D\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=07d4503831e29b92ff9a4181a6707afb}{%
+           family={Hu},
+           familyi={H\bibinitperiod},
+           given={W.},
+           giveni={W\bibinitperiod}}}%
+        {{hash=70652b015f048c7052ba57a43e550a3e}{%
+           family={Darcy},
+           familyi={D\bibinitperiod},
+           given={J.\bibnamedelimi L.},
+           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=3443cadb093bb9bd1baf3bbc55d02470}{%
+           family={Sommers},
+           familyi={S\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+        {{hash=c894de6685f2e352c1c173d46d1f02f4}{%
+           family={Schmidt},
+           familyi={S\bibinitperiod},
+           given={S.\bibnamedelimi K.},
+           giveni={S\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \strng{namehash}{310f1559f81dc270bd0b8c13bf604000}
+      \strng{fullhash}{5d0abe9fc6b80e181be89ded366c6bd8}
+      \strng{bibnamehash}{5d0abe9fc6b80e181be89ded366c6bd8}
+      \strng{authorbibnamehash}{5d0abe9fc6b80e181be89ded366c6bd8}
+      \strng{authornamehash}{310f1559f81dc270bd0b8c13bf604000}
+      \strng{authorfullhash}{5d0abe9fc6b80e181be89ded366c6bd8}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Nematology}
+      \field{title}{{Primary succession of nematode communities following retreat of a high elevation glacier}}
+      \field{year}{2020}
+      \keyw{coauthor}
+    \endentry
+    \entry{Sommers2020}{incollection}{}
+      \name{author}{6}{}{%
+        {{hash=3443cadb093bb9bd1baf3bbc55d02470}{%
+           family={Sommers},
+           familyi={S\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+        {{hash=91f1071a1e566e8fd27d5a85298ed946}{%
+           family={Porazinska},
+           familyi={P\bibinitperiod},
+           given={D.\bibnamedelimi L.},
+           giveni={D\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=70652b015f048c7052ba57a43e550a3e}{%
+           family={Darcy},
+           familyi={D\bibinitperiod},
+           given={J.\bibnamedelimi L.},
+           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=699d679c3f4f75652e99a1f5682eea89}{%
+           family={Vimercati},
+           familyi={V\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod}}}%
+        {{hash=58531d4cabf7de0157efe618f0065e80}{%
+           family={Solon},
+           familyi={S\bibinitperiod},
+           given={A.\bibnamedelimi J.},
+           giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=c894de6685f2e352c1c173d46d1f02f4}{%
+           family={Schmidt},
+           familyi={S\bibinitperiod},
+           given={S.\bibnamedelimi K.},
+           giveni={S\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \strng{namehash}{8ef02c86f54b2e5fb8b943809a9dc827}
+      \strng{fullhash}{8815be859c20ccdf97ae099602df187a}
+      \strng{bibnamehash}{8815be859c20ccdf97ae099602df187a}
+      \strng{authorbibnamehash}{8815be859c20ccdf97ae099602df187a}
+      \strng{authornamehash}{8ef02c86f54b2e5fb8b943809a9dc827}
+      \strng{authorfullhash}{8815be859c20ccdf97ae099602df187a}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Microorganisms}
+      \field{title}{{Microbial species–area relationships in Antarctic cryoconite holes depend on productivity}}
+      \field{year}{2020}
+      \keyw{coauthor}
+    \endentry
     \entry{schmidt2020}{incollection}{}
       \name{author}{9}{}{%
         {{hash=c894de6685f2e352c1c173d46d1f02f4}{%
@@ -397,8 +526,8 @@
       \strng{authorbibnamehash}{058eb12e05986be0cbfb7b5516077c22}
       \strng{authornamehash}{e985de40e1f3ea4a3cdac287179f70ee}
       \strng{authorfullhash}{058eb12e05986be0cbfb7b5516077c22}
-      \field{sortinit}{9}
-      \field{sortinithash}{1dd72ab054147731c9d824b49aba0534}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Microbial Ecosystems in Central Andes Extreme Environments}
@@ -767,8 +896,8 @@
       \strng{authorbibnamehash}{fb1a2e6e48bcab68b6c346a8daf52bdc}
       \strng{authornamehash}{01f852b0d5d634e79da812d262e26a95}
       \strng{authorfullhash}{fb1a2e6e48bcab68b6c346a8daf52bdc}
-      \field{sortinit}{1}
-      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{AAAR}
@@ -800,8 +929,8 @@
       \strng{authorbibnamehash}{3e67dc7d8db1744c85445e205881fd05}
       \strng{authornamehash}{3e67dc7d8db1744c85445e205881fd05}
       \strng{authorfullhash}{3e67dc7d8db1744c85445e205881fd05}
-      \field{sortinit}{1}
-      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Front Microbiol}
@@ -878,8 +1007,8 @@
       \strng{authorbibnamehash}{4f069908a9687b7dd7700afce29a21ea}
       \strng{authornamehash}{07fc4619ba4599f47cc85a550228d01d}
       \strng{authorfullhash}{4f069908a9687b7dd7700afce29a21ea}
-      \field{sortinit}{1}
-      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Front Microbiol}
@@ -1342,8 +1471,8 @@
       \strng{authorbibnamehash}{09903a97a4cdb0235234e21fddc51aa9}
       \strng{authornamehash}{94009310a17774aa362404a7c454605c}
       \strng{authorfullhash}{09903a97a4cdb0235234e21fddc51aa9}
-      \field{sortinit}{2}
-      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{PeerJ}
@@ -1390,8 +1519,8 @@
       \strng{authorbibnamehash}{af2402e45ac6dbf67bdf604ba7a74a88}
       \strng{authornamehash}{e985de40e1f3ea4a3cdac287179f70ee}
       \strng{authorfullhash}{af2402e45ac6dbf67bdf604ba7a74a88}
-      \field{sortinit}{2}
-      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Ecosystems}
@@ -1458,8 +1587,8 @@
       \strng{authorbibnamehash}{36f087f0a9102c857bfdf2e0912f43c7}
       \strng{authornamehash}{7e434235afae794de7cee966324dfbba}
       \strng{authorfullhash}{36f087f0a9102c857bfdf2e0912f43c7}
-      \field{sortinit}{2}
-      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Sci Rep}
@@ -1822,8 +1951,8 @@
       \strng{authorbibnamehash}{2118149f57541c1db73fe30652de33ea}
       \strng{authornamehash}{2118149f57541c1db73fe30652de33ea}
       \strng{authorfullhash}{2118149f57541c1db73fe30652de33ea}
-      \field{sortinit}{3}
-      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{sortinit}{4}
+      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Environ Microbiol}
@@ -1895,8 +2024,8 @@
       \strng{authorbibnamehash}{c4cbfe759ba9535e32a5b1b9c63c9c67}
       \strng{authornamehash}{948faa507e7beb8112a9954efc885665}
       \strng{authorfullhash}{c4cbfe759ba9535e32a5b1b9c63c9c67}
-      \field{sortinit}{3}
-      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{sortinit}{4}
+      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{MMBR}
@@ -1928,8 +2057,8 @@
       \strng{authorbibnamehash}{859efded28c466ba255a1f4c3c989404}
       \strng{authornamehash}{859efded28c466ba255a1f4c3c989404}
       \strng{authorfullhash}{859efded28c466ba255a1f4c3c989404}
-      \field{sortinit}{3}
-      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{sortinit}{4}
+      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Environ Microbiol}
