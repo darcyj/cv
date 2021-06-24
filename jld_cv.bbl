@@ -381,6 +381,223 @@
       \field{year}{2021}
       \keyw{firstauthor}
     \endentry
+    \entry{Aran2021}{article}{}
+      \name{author}{11}{}{%
+        {{hash=7024c05b51fb97c92eecd88214a98130}{%
+           family={Aran},
+           familyi={A\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+        {{hash=0bab3528bc8077622f1f1a3b42766601}{%
+           family={Aguilar},
+           familyi={A\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+        {{hash=3e1a46b7261c0ddb848ce19637bf5903}{%
+           family={Bowen},
+           familyi={B\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod}}}%
+        {{hash=f7663ed530344189fe8d90394c5852aa}{%
+           family={Farson},
+           familyi={F\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=aad1b8e63c783b13a030b39c9ea8733e}{%
+           family={Tapia},
+           familyi={T\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=699d679c3f4f75652e99a1f5682eea89}{%
+           family={Vimercati},
+           familyi={V\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod}}}%
+        {{hash=61a50045d4d607e8b5cd67c2f17728a8}{%
+           family={Darcy},
+           familyi={D\bibinitperiod},
+           given={J.L.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=29045b2276932a8807a1ca8e61e82cf4}{%
+           family={Solon},
+           familyi={S\bibinitperiod},
+           given={A.J.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=9fac6b9109d15c0cbf0e6a529f4c8068}{%
+           family={Porazinska},
+           familyi={P\bibinitperiod},
+           given={D.L.},
+           giveni={D\bibinitperiod}}}%
+        {{hash=218b2b88d2be1f2c058b9ab0891cfa3c}{%
+           family={Schmidt},
+           familyi={S\bibinitperiod},
+           given={S.K.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=749ffd506330641ed7fa3e85df8c02cc}{%
+           family={Dorador},
+           familyi={D\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{a1f34583314326151f95923b23a1eb39}
+      \strng{fullhash}{9f82f01042b77d64e01f04c75bd5f7fc}
+      \strng{bibnamehash}{9f82f01042b77d64e01f04c75bd5f7fc}
+      \strng{authorbibnamehash}{9f82f01042b77d64e01f04c75bd5f7fc}
+      \strng{authornamehash}{a1f34583314326151f95923b23a1eb39}
+      \strng{authorfullhash}{9f82f01042b77d64e01f04c75bd5f7fc}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Aquat Conserv}
+      \field{title}{{Insights into an undescribed high‐elevation lake (6,170 m asl) on Volcán Llullaillaco: A physical and microbiological view}}
+      \field{year}{2021}
+      \keyw{coauthor}
+    \endentry
+    \entry{Tipton2021}{article}{}
+      \name{author}{5}{}{%
+        {{hash=77cd5760de93169ff0e6433716f7e098}{%
+           family={Tipton},
+           familyi={T\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod}}}%
+        {{hash=1db8c034fcb19d6759bc53d9652f0576}{%
+           family={Zahn},
+           familyi={Z\bibinitperiod},
+           given={G.L.},
+           giveni={G\bibinitperiod}}}%
+        {{hash=61a50045d4d607e8b5cd67c2f17728a8}{%
+           family={Darcy},
+           familyi={D\bibinitperiod},
+           given={J.L.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=0dcce8e52682719780482ecd7201d32a}{%
+           family={Amend},
+           familyi={A\bibinitperiod},
+           given={A.S.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=850a17f523d7dc63005561131872da4f}{%
+           family={Hynson},
+           familyi={H\bibinitperiod},
+           given={N.A.},
+           giveni={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{1cd36bc4a505b3d482f828ca0c010adc}
+      \strng{fullhash}{f10698f08048f637fd8ed260dc130774}
+      \strng{bibnamehash}{f10698f08048f637fd8ed260dc130774}
+      \strng{authorbibnamehash}{f10698f08048f637fd8ed260dc130774}
+      \strng{authornamehash}{1cd36bc4a505b3d482f828ca0c010adc}
+      \strng{authorfullhash}{f10698f08048f637fd8ed260dc130774}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Microb Ecol}
+      \field{title}{{Hawaiian Fungal Amplicon Sequence Variants Reveal Otherwise Hidden Biogeography}}
+      \field{year}{2021}
+      \keyw{coauthor}
+    \endentry
+    \entry{Hu2021}{article}{}
+      \name{author}{5}{}{%
+        {{hash=07d4503831e29b92ff9a4181a6707afb}{%
+           family={Hu},
+           familyi={H\bibinitperiod},
+           given={W.},
+           giveni={W\bibinitperiod}}}%
+        {{hash=218b2b88d2be1f2c058b9ab0891cfa3c}{%
+           family={Schmidt},
+           familyi={S\bibinitperiod},
+           given={S.K.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=3443cadb093bb9bd1baf3bbc55d02470}{%
+           family={Sommers},
+           familyi={S\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+        {{hash=61a50045d4d607e8b5cd67c2f17728a8}{%
+           family={Darcy},
+           familyi={D\bibinitperiod},
+           given={J.L.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=9fac6b9109d15c0cbf0e6a529f4c8068}{%
+           family={Porazinska},
+           familyi={P\bibinitperiod},
+           given={D.L.},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{5a3044da5b0311610be69e2bcc17732f}
+      \strng{fullhash}{87b998109fda31b93773b34a071e8755}
+      \strng{bibnamehash}{87b998109fda31b93773b34a071e8755}
+      \strng{authorbibnamehash}{87b998109fda31b93773b34a071e8755}
+      \strng{authornamehash}{5a3044da5b0311610be69e2bcc17732f}
+      \strng{authorfullhash}{87b998109fda31b93773b34a071e8755}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Ecosphere}
+      \field{title}{{Multiple‐trophic patterns of primary succession following retreat of a high‐elevation glacier}}
+      \field{year}{2021}
+      \keyw{coauthor}
+    \endentry
+    \entry{Solon2021}{article}{}
+      \name{author}{8}{}{%
+        {{hash=7621b3813ff505099a1bdd30a9b87987}{%
+           family={Solon},
+           familyi={S\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=0f08c4a1246fd1ab0f3da0ddd1d2c0e1}{%
+           family={Mastrangelo},
+           familyi={M\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod}}}%
+        {{hash=699d679c3f4f75652e99a1f5682eea89}{%
+           family={Vimercati},
+           familyi={V\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod}}}%
+        {{hash=3443cadb093bb9bd1baf3bbc55d02470}{%
+           family={Sommers},
+           familyi={S\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+        {{hash=61a50045d4d607e8b5cd67c2f17728a8}{%
+           family={Darcy},
+           familyi={D\bibinitperiod},
+           given={J.L.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=3719aacfb92520c90d11fe353409a005}{%
+           family={Gendron},
+           familyi={G\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod}}}%
+        {{hash=9fac6b9109d15c0cbf0e6a529f4c8068}{%
+           family={Porazinska},
+           familyi={P\bibinitperiod},
+           given={D.L.},
+           giveni={D\bibinitperiod}}}%
+        {{hash=218b2b88d2be1f2c058b9ab0891cfa3c}{%
+           family={Schmidt},
+           familyi={S\bibinitperiod},
+           given={S.K.},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{700b6169c76c3bc353fb8f2416e129cc}
+      \strng{fullhash}{bde05c43f6708596f0674dd5b7ac0859}
+      \strng{bibnamehash}{bde05c43f6708596f0674dd5b7ac0859}
+      \strng{authorbibnamehash}{bde05c43f6708596f0674dd5b7ac0859}
+      \strng{authornamehash}{700b6169c76c3bc353fb8f2416e129cc}
+      \strng{authorfullhash}{bde05c43f6708596f0674dd5b7ac0859}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Front Microbiol}
+      \field{title}{{Gullies and Moraines Are Islands of Biodiversity in an Arid, Mountain Landscape, Asgard Range, Antarctica}}
+      \field{year}{2021}
+      \keyw{coauthor}
+    \endentry
     \entry{porazinska2020}{incollection}{}
       \name{author}{5}{}{%
         {{hash=91f1071a1e566e8fd27d5a85298ed946}{%
@@ -719,8 +936,8 @@
       \strng{authorbibnamehash}{face512546989863d5b17f73890ea8a7}
       \strng{authornamehash}{face512546989863d5b17f73890ea8a7}
       \strng{authorfullhash}{face512546989863d5b17f73890ea8a7}
-      \field{sortinit}{1}
-      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Science}
@@ -757,8 +974,8 @@
       \strng{authorbibnamehash}{e7974a8c6b5b6e08175b32604d788de7}
       \strng{authornamehash}{17ec8eeaa78ee73615ab451b61ce2bcc}
       \strng{authorfullhash}{e7974a8c6b5b6e08175b32604d788de7}
-      \field{sortinit}{1}
-      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{J Microbiol}
@@ -790,8 +1007,8 @@
       \strng{authorbibnamehash}{7244c7cb528d83ca00bce654c4ea6c90}
       \strng{authornamehash}{7244c7cb528d83ca00bce654c4ea6c90}
       \strng{authorfullhash}{7244c7cb528d83ca00bce654c4ea6c90}
-      \field{sortinit}{1}
-      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Sci Rep}
@@ -838,8 +1055,8 @@
       \strng{authorbibnamehash}{e31efe016a69f083b64b762f95545f61}
       \strng{authornamehash}{9dd7ee52c44dbf73573e4effae7d731b}
       \strng{authorfullhash}{e31efe016a69f083b64b762f95545f61}
-      \field{sortinit}{1}
-      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Environ Microbiol}
@@ -1249,8 +1466,8 @@
       \strng{authorbibnamehash}{ec3955fa3c0a4034895302a36b00e40e}
       \strng{authornamehash}{07fc4619ba4599f47cc85a550228d01d}
       \strng{authorfullhash}{ec3955fa3c0a4034895302a36b00e40e}
-      \field{sortinit}{2}
-      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{FEMS Microbiol Ecol}
@@ -1307,8 +1524,8 @@
       \strng{authorbibnamehash}{cc9b8107b41ec047f3e4de677473b7f2}
       \strng{authornamehash}{c180944b628581060e115553dd27035b}
       \strng{authorfullhash}{cc9b8107b41ec047f3e4de677473b7f2}
-      \field{sortinit}{2}
-      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Forests}
@@ -1365,8 +1582,8 @@
       \strng{authorbibnamehash}{78a58a4a900d4ae4d3579d8fac241bb1}
       \strng{authornamehash}{e7943fdb2166b2f592e6a297d9b492f9}
       \strng{authorfullhash}{78a58a4a900d4ae4d3579d8fac241bb1}
-      \field{sortinit}{2}
-      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Mycology}
@@ -1413,8 +1630,8 @@
       \strng{authorbibnamehash}{430c3c7e903049d70d9a83b020ad7fd5}
       \strng{authornamehash}{e985de40e1f3ea4a3cdac287179f70ee}
       \strng{authorfullhash}{430c3c7e903049d70d9a83b020ad7fd5}
-      \field{sortinit}{2}
-      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Extremophiles}
@@ -1784,8 +2001,8 @@
       \strng{authorbibnamehash}{5d222ecc7d7dcaab5134a081f0232ad4}
       \strng{authornamehash}{f3a79fb46f3bbe0481aa07504efa9c7b}
       \strng{authorfullhash}{5d222ecc7d7dcaab5134a081f0232ad4}
-      \field{sortinit}{3}
-      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{sortinit}{4}
+      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Front Microbiol}
@@ -1822,8 +2039,8 @@
       \strng{authorbibnamehash}{f0fb6ceec67d7aa3cb59cb16b6dea387}
       \strng{authornamehash}{c75e234c4a854fb9e4d62abec6b0cca5}
       \strng{authorfullhash}{f0fb6ceec67d7aa3cb59cb16b6dea387}
-      \field{sortinit}{3}
-      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{sortinit}{4}
+      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Mol Ecol}
@@ -1865,8 +2082,8 @@
       \strng{authorbibnamehash}{d1156de5787e009cc6ca25869aff3174}
       \strng{authornamehash}{125968f14e5c1149e91f507976983640}
       \strng{authorfullhash}{d1156de5787e009cc6ca25869aff3174}
-      \field{sortinit}{3}
-      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{sortinit}{4}
+      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Front Microbiol}
@@ -1918,8 +2135,8 @@
       \strng{authorbibnamehash}{6c0646df8e22779dad0ded8b17b0929c}
       \strng{authornamehash}{c180944b628581060e115553dd27035b}
       \strng{authorfullhash}{6c0646df8e22779dad0ded8b17b0929c}
-      \field{sortinit}{3}
-      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{sortinit}{4}
+      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{PLoS ONE}

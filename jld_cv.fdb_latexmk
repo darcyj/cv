@@ -1,13 +1,13 @@
 # Fdb version 3
-["biber jld_cv"] 1614718822 "jld_cv.bcf" "jld_cv.bbl" "jld_cv" 1614718825
-  "allrefs.bib" 1614718820 14725 cc81d47d182aeb8226101ea0d022bfaf ""
-  "jld_cv.bcf" 1614718825 89700 051b751ff55cfa2977d85b74f7ee7557 ""
+["biber jld_cv"] 1624577529 "jld_cv.bcf" "jld_cv.bbl" "jld_cv" 1624578026
+  "allrefs.bib" 1624577475 16081 b4a8d80d8445fe07a497b580999a8c52 ""
+  "jld_cv.bcf" 1624578026 89700 051b751ff55cfa2977d85b74f7ee7557 ""
   (generated)
-  "jld_cv.blg"
   "jld_cv.bbl"
-["pdflatex"] 1614718824 "jld_cv.tex" "/home/jack/Documents/cv/jld_cv/jld_cv.pdf" "jld_cv" 1614718825
+  "jld_cv.blg"
+["pdflatex"] 1624578025 "jld_cv.tex" "/home/jack/Documents/cv/jld_cv/jld_cv.pdf" "jld_cv" 1624578026
   "/etc/texmf/web2c/texmf.cnf" 1586302864 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/jack/Documents/cv/jld_cv/jld_cv.aux" 1614718825 6549 01c8fb0059278c34edb184bd9fad5224 ""
+  "/home/jack/Documents/cv/jld_cv/jld_cv.aux" 1624578026 6822 4b1ab3ed49ff384e0b217753d7d99083 ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome/fontawesomeone.enc" 1480098667 1687 f004baecce60175c6453d0e3f808cf20 ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome/fontawesomethree.enc" 1480098667 2437 443c81fb50993bacedc5f9a206c322b0 ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc" 1480098667 2679 32dd8ae231bf4a0752b98f62dc097183 ""
@@ -100,19 +100,19 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1520210507 32485 c64754543d8ac501bea6e75e209ea521 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1586306058 2359383 9ab63e128d9bc6a2c579a1b3056af542 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1586303494 724917 9a86456d5ff9868924aa6565afe3d19c ""
-  "jld_cv.aux" 1614718825 6549 01c8fb0059278c34edb184bd9fad5224 ""
-  "jld_cv.bbl" 1614718823 95361 9cfa78853eafd078af92cdecded4c471 "biber jld_cv"
-  "jld_cv.out" 1614718825 0 d41d8cd98f00b204e9800998ecf8427e ""
-  "jld_cv.run.xml" 1614718825 2357 65a9d04c72912a1aa97f644f261b14d3 ""
-  "jld_cv.tex" 1614718244 18990 cdad99bc5717fb292b38b1c0b001bfe8 ""
+  "jld_cv.aux" 1624578026 6822 4b1ab3ed49ff384e0b217753d7d99083 ""
+  "jld_cv.bbl" 1624577531 103890 68e9612a245403e2a1cd36d64e9f5319 "biber jld_cv"
+  "jld_cv.out" 1624578026 0 d41d8cd98f00b204e9800998ecf8427e ""
+  "jld_cv.run.xml" 1624578026 2357 65a9d04c72912a1aa97f644f261b14d3 ""
+  "jld_cv.tex" 1624578025 18909 a7008ae909429b5426dd49645a640140 ""
   "pix/at_canada_term_2016.jpg" 1599262565 169604 7cb8022154a4160c110251750e2604d2 ""
   "pix/penitentes_2016.jpg" 1599262628 48953 8325237d71fde62521889d7af19c8a99 ""
   (generated)
-  "jld_cv.out"
+  "jld_cv.bcf"
+  "/home/jack/Documents/cv/jld_cv/jld_cv.log"
   "jld_cv.log"
-  "jld_cv.pdf"
   "/home/jack/Documents/cv/jld_cv/jld_cv.pdf"
   "jld_cv.run.xml"
-  "/home/jack/Documents/cv/jld_cv/jld_cv.log"
+  "jld_cv.out"
   "jld_cv.aux"
-  "jld_cv.bcf"
+  "jld_cv.pdf"
