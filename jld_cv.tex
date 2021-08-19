@@ -8,7 +8,7 @@
   \documentclass{article} 
   \usepackage[margin=15mm]{geometry} % 15 mm margins all around
   \usepackage{hyperref} % for hyperlinks
-  \usepackage{fontawesome} % for some symbols
+  \usepackage{fontawesome} % for some symbols, needs: sudo apt-get install texlive-fonts-extra 
   \usepackage{multicol} % for multiple columns of text
   \usepackage{graphicx} % for pdf figures
   \usepackage{changepage} % for the adjustwidth environment
@@ -26,7 +26,7 @@
     linkcolor    = blue, %Colour of internal links
     citecolor    = black %Colour of citations
   }
-  \usepackage[backend=biber, style=numeric-comp, maxbibnames=99, sorting=none, firstinits, terseinits]{biblatex}
+  \usepackage[backend=biber, style=numeric-comp, maxbibnames=99, sorting=none, giveninits, terseinits]{biblatex} % note 'giveninits' replaces 'firstinits' for some stupid reason
   \renewbibmacro{in:}{} % removes "in:" before journal names
   \addbibresource{allrefs.bib}
   %
@@ -145,9 +145,9 @@
   \begin{multicols}{2}
     \begin{itemize}[noitemsep,topsep=0pt, leftmargin=0mm]
       \item 48 published papers
-      \item 1847 citations (as of 05/2021)
+      \item 1897 citations (as of 08/2021)
       \item h-index = 19
-      \item i10-index = 25
+      \item i10-index = 26
     \end{itemize}
   \end{multicols}
 \end{adjustwidth}
@@ -155,7 +155,7 @@
 {\large  \textbf{Mentorship and Team Leadership}}
 \begin{itemize}[noitemsep,topsep=0pt, leftmargin=5mm]
   \item Mentored Matthew Marshall, an undergraduate student as part of CU Anschutz Summer Bioinformatics Fellowship. I mentored Matt in developing a computer program that analyzes microbial communities in a competitive-lottery framework. We met twice weekly, and I created a production schedule and advised Matt on both programming and writing. Matt is preparing software for pulic release, and has written a release note for publication.
-  \item Lead a team at UH to develop and test a 3D-printed air sampler, to be used in large-scale sampling of air microbiota on the Hawaiian Islands. Team included 2 PhD students and 3 undergraduate students. Samplers were succesfully deployed in-situ and operated without supervision in the rainforest for multiple days until collected.
+  \item Led a team at UH to develop and test a 3D-printed air sampler, to be used in large-scale sampling of air microbiota on the Hawaiian Islands. Team included 2 PhD students and 3 undergraduate students. Samplers were succesfully deployed in-situ and operated without supervision in the rainforest for multiple days until collected.
   \item Advised Adam Solon's honors thesis project in 2016. Adam used Illumina sequencing to compare microbial communities from multiple sites in the Chilean Atacama Desert, and this work is now published in Microbial Ecology \cite{Solon2018}. He was awarded summa cum laude.
   \item Advised Cerrise Weibern honors thesis project in 2015. She sequenced genomes of 8 Janthinobacterium strains and constructed a robust phylogeny of the species. She was awarded magna cum laude.
   \item Advised Zack Schubert's honors thesis project in 2014. I taught him how to implement complex simulation models in R, and together we made and compared mathematical models of water availability in soil undergoing freeze-thaw cycling. He was awarded summa cum laude.
@@ -169,8 +169,7 @@
   \item Guest lecturer for Ecology of Microbial Symbiosis (Spring 2018). Taught 2 lecture classes reviewing bioinformatics approaches used by microbial symbiosis researchers.
   \item Guest lecturer for Microbial Ecology (Fall 2016) Taught 3 lecture classes introducing students to modern molecular and bioinformatic approaches to microbial ecology.
   \item Ecology Lab TA (Fall 2013) Taught ecological theory and field methods, as well as basic statistics and computer programming in R. Three-hour periods with 20 students, 2x/week.
-  \item Microbiology lab TA (Spring 2012) Taught basic microbiological technique, and modern molecular methods.
-Also wrote weekly quizzes and gave recitation. Two-hour periods with 18 students, 4x/week.
+  \item Microbiology lab TA (Spring 2012) Taught basic microbiological technique, and modern molecular methods. Also wrote weekly quizzes and gave recitation. Two-hour periods with 18 students, 4x/week.
 \end{itemize}
 \vspace{3mm}
 {\large  \textbf{Funding and Awards}}
