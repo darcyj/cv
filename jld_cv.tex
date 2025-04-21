@@ -17,6 +17,7 @@
   \usepackage{float}    % used for figures
   \usepackage{caption}        % used for figures
   \usepackage{subcaption}     % used for figures
+  \usepackage{notoccite} %maybe will help citations be in order again
   \setlength\parindent{0pt} % no indentation allowed
   %
   \setlength{\multicolsep}{0pt}% remove vertical space for multiple columns
@@ -26,24 +27,9 @@
     linkcolor    = blue, %Colour of internal links
     citecolor    = black %Colour of citations
   }
-  \usepackage[backend=biber, style=numeric-comp, maxbibnames=99, sorting=none, giveninits, terseinits]{biblatex} % note 'giveninits' replaces 'firstinits' for some stupid reason
+  \usepackage[backend=biber, style=numeric-comp, maxbibnames=99, sorting=ydnt, giveninits, terseinits]{biblatex} % note 'giveninits' replaces 'firstinits' for some stupid reason
   \renewbibmacro{in:}{} % removes "in:" before journal names
   \addbibresource{allrefs.bib}
-  %
-  % The following is a giant mess that makes the bibliography align with bulleted lists
-  % (and gives each bib entry more room.... why was this so damn hard???)
-  \defbibenvironment{bibliography}{
-    \list{
-      %% this is executed 
-      \printfield[labelnumberwidth]{labelnumber}%
-      \setlength{\labelwidth}{\labelnumberwidth}%
-    }{
-      \setlength{\leftmargin}{3mm}%
-      \addtolength{\leftmargin}{\labelsep}%
-      \setlength{\itemsep}{\bibitemsep}%
-      \setlength{\parsep}{\bibparsep}%
-    }
-  }{\endlist}{\item}
   %
   % This should make my name bold in all the citations, AND remove commas
   % between last and first inits. "Darcy, JL" -> "Darcy JL"
@@ -88,11 +74,8 @@
 
 \begin{adjustwidth}{5mm}{}
   \begin{multicols}{3}
-    \faPhone \space +1 (303) 887 - 0477\\
-    \faEnvelope \space \href{mailto:darcyj@colorado.edu}{darcyj@colorado.edu}\\
-    \faGlobe \space \href{http://www.jldarcy.tk/}{jldarcy.com}\\
+    \faEnvelope \space \href{mailto:John.L.Darcy@gmail.com}{John.L.Darcy@gmail.com}\\
     \faGithub \space \href{https://github.com/darcyj}{github.com/darcyj}\\
-    \faInstagram/\faTwitter \space \href{https://www.instagram.com/jld.adventures/}{@JohnLDarcy}\\
     \faMortarBoard \space \href{https://scholar.google.com/citations?user=z24F3PYAAAAJ}{Google Scholar link}
   \end{multicols}
 \end{adjustwidth}
@@ -100,25 +83,50 @@
 %
 \vspace{2mm}
 %
-{\large\textbf{Research Emphasis}}
+{\large\textbf{Summary}}
 \begin{adjustwidth}{5mm}{}
-  In my research, I use mathematical models to understand how microbial communities change over time and space. My research has spanned several different study systems, including the human microbiome, mouse microbiome, native Hawaiian plants, and soil microbes living in extreme environments across the world. My most recent work at CU Anschutz uses a mathematical model I developed to ask to what extent microbes are more likely to join a microbiome if they already have a close relative living there.
+  \textbf{Biostatistician} with a publication-proven track record in statistical software development, data visualization, and automation. Specializing in multi-omic pharmacological data analysis, and microbiome data analysis. Adept at leading cross-functional teams, driving new product development, and optimizing data workflows and pipelines. Passionate in developing innovative algorithms, statistical methods, and data tools. 
+\end{adjustwidth}
+\vspace{2mm}
+%
+{\large\textbf{Research Emphases}}
+\begin{adjustwidth}{5mm}{}
+  \begin{itemize}[noitemsep,topsep=0pt, leftmargin=5mm]
+    \item \textbf{SomaLogic:} Mechanism-of-action of saturated O\textsubscript{2} tolerance in rats. RNA-seq v.s. mass spec v.s. SomaScan characterization. QA/QC pipeline development for SomaScan assay. GSEA algorithm improvements.
+    \item \textbf{CU Anschutz Postdoc:} Statistical methods development for high-dimensional feature data, including microbiome, metabolomic, proteomic, metagenomic, and transcriptomic data.
+    \item \textbf{UH Manoa Postdoc:} Network analysis and island biogeography of endophytic fungi in native Hawaiian plants, engineering and producing 3D-printed air samplers, algorithm development for phylogeny reconstruction given un-alignable DNA sequence data.
+    \item \textbf{CU Boulder PhD:} Mathematical modeling of human microbiome changes over time from a phylogenomic perspective. Biodiversity and biogeography of Antarctic glacier bacteria inform our understanding of human microbiome temporal dynamics. Algorithm development in fluorescence microscopy and remote sensing data. 
+  \end{itemize}
 \end{adjustwidth}
 %
 \vspace{2mm} 
 %
+{\large  \textbf{Industry Experience}}
+\begin{adjustwidth}{5mm}{}
+  \begin{itemize}[noitemsep,topsep=0pt, leftmargin=5mm]
+    \item Freelance data scientist and ski instructor.  \mbox{Fall 2024 - Present.}
+    \item Bioinformatics scientist at SomaLogic. \mbox{Fall 2020 - Fall 2024.}
+  \end{itemize}
+\end{adjustwidth}
+\vspace{2mm}
+%
 {\large  \textbf{Post-Doctoral Training}}
-\begin{itemize}[noitemsep,topsep=0pt, leftmargin=5mm]
-  \item US NIH NLM Computational Biology Post-Doctoral Fellowship at University of Colorado Anschutz Medical Campus, working with Catherine Lozupone. \mbox{Fall 2018 - present.}
-  \item Post-doctoral researcher at University of Hawai'i at Mānoa, with Anthony Amend. \mbox{Fall 2017 - 2018.}
-\end{itemize}
+\begin{adjustwidth}{5mm}{}
+  \begin{itemize}[noitemsep,topsep=0pt, leftmargin=5mm]
+    \item US NIH NLM Computational Biology Post-Doctoral Fellowship at University of Colorado Anschutz Medical Campus, working with Catherine Lozupone. \mbox{Fall 2018 - Fall 2020.}
+    \item Post-doctoral researcher at University of Hawai'i at Mānoa, with Anthony Amend. \mbox{Fall 2017 - 2018.}
+  \end{itemize}
+\end{adjustwidth}
 %
 \vspace{2mm}
 {\large  \textbf{Education}}
-\begin{itemize}[noitemsep,topsep=0pt, leftmargin=5mm]
-  \item PhD in Ecology and Evolutionary Biology from University of Colorado, Boulder (2017). Partly done at Duke University. Dissertation title: Biogeographic and biogeochemical drivers of microbial community assembly. Advised by Steve Schmidt (Boulder) and Diana Nemergut (Duke). 
-  \item BA in Molecular, Cellular, and Developmental Biology (2010).
-\end{itemize}
+\begin{adjustwidth}{5mm}{}
+  \begin{itemize}[noitemsep,topsep=0pt, leftmargin=5mm]
+    \item PhD in Ecology and Evolutionary Biology from University of Colorado, Boulder (2017). Partly done at Duke University. Dissertation title: Biogeographic and biogeochemical drivers of microbial community assembly. Advised by Steve Schmidt (Boulder) and Diana Nemergut (Duke). 
+    \item BA in Molecular, Cellular, and Developmental Biology (2010).
+  \end{itemize}
+\end{adjustwidth}
+
 % first author citations - found in allrefs.bib tagged with keywords = {firstauthor}
 \vspace{2mm}
 {\large  \textbf{First-Author Publications}}\space\emph{(incl.\ equal contribution of first two authors)}
@@ -144,16 +152,17 @@
 \begin{adjustwidth}{5mm}{}
   \begin{multicols}{2}
     \begin{itemize}[noitemsep,topsep=0pt, leftmargin=0mm]
-      \item 48 published papers
-      \item 1897 citations (as of 08/2021)
-      \item h-index = 19
-      \item i10-index = 26
+      \item 51 published papers
+      \item 3943 citations (as of 04/2025)
+      \item h-index = 27
+      \item i10-index = 41
     \end{itemize}
   \end{multicols}
 \end{adjustwidth}
 \vspace{3mm}
 {\large  \textbf{Mentorship and Team Leadership}}
 \begin{itemize}[noitemsep,topsep=0pt, leftmargin=5mm]
+  \item At SomaLogic I led multiple interdisciplinary teams on various projects. For example, development of an in-house Gene-Set Enrichment Analysis (GSEA) R-package with considerations for SomaScan data's unique properties and challenges. 
   \item Mentored Matthew Marshall, an undergraduate student as part of CU Anschutz Summer Bioinformatics Fellowship. I mentored Matt in developing a computer program that analyzes microbial communities in a competitive-lottery framework. We met twice weekly, and I created a production schedule and advised Matt on both programming and writing. Matt is preparing software for pulic release, and has written a release note for publication.
   \item Led a team at UH to develop and test a 3D-printed air sampler, to be used in large-scale sampling of air microbiota on the Hawaiian Islands. Team included 2 PhD students and 3 undergraduate students. Samplers were succesfully deployed in-situ and operated without supervision in the rainforest for multiple days until collected.
   \item Advised Adam Solon's honors thesis project in 2016. Adam used Illumina sequencing to compare microbial communities from multiple sites in the Chilean Atacama Desert, and this work is now published in Microbial Ecology \cite{Solon2018}. He was awarded summa cum laude.
@@ -174,18 +183,20 @@
 \vspace{3mm}
 {\large  \textbf{Funding and Awards}}
 \begin{itemize}[noitemsep,topsep=0pt, leftmargin=5mm]
-  \item NIH NLM Computational Biology Postdoctoral Fellowship (present position).
-  \item 2019 Front Range Microbiome Symposium award for best presentation. \$100.
-  \item International Geological Society travel grant. Kyoto, Japan, December 2017. \yen100,000.
-  \item Mycological Society of America travel award. San Juan, Puerto Rico, December 2017. \$2,500.
-  \item SCAR XIIth International Biology Symposium Travel Grant. KU Leuven, December 2016. \$2,500.
-  \item Remote (control) sensing: using a drone for environmental science. CU EBIO grant, April 2014. \$992.
-  \item High-throughput climate change modeling from the gene’s perspective. Dean’s Graduate Student Research Grant Award, CU Boulder, October 2014. \$5,000.
+  \item NIH NLM Computational Biology Postdoctoral Fellowship.
+  \item 2019 Front Range Microbiome Symposium award for best presentation.
+  \item Mycological Society of America travel award. San Juan, Puerto Rico, December 2017.
+  \item SCAR XIIth International Biology Symposium Travel Grant. KU Leuven, December 2016.
+  \item Remote (control) sensing: using a drone for environmental science. CU EBIO grant, April 2014.
+  \item High-throughput climate change modeling from the gene’s perspective. Dean’s Graduate Student Research Grant Award, CU Boulder, October 2014.
 \end{itemize}
-%\vspace{3mm}
-\pagebreak
+\vspace{3mm}
+
 {\large  \textbf{Selected Presentations and Posters}}
 \begin{itemize}[noitemsep,topsep=0pt, leftmargin=5mm]
+  \item Everyone's doing GSEA wrong (Company seminar, 2024). SomaLogic seminar series. Boulder, Colorado.
+  \item Putative mechanism-of-action for 100\% oxygen tolerance in mutant rats (Company seminar, 2024). SomaLogic seminar series. Boulder, Colorado.
+  \item Proteomic characterization of liver perfusate effectiveness (Company seminar, 2023). SomaLogic seminar series. Boulder, Colorado.
   \item Nepotism and Specificity In the human microbiome (Invited talk, 2020). CU Anschutz Computational Biology seminar series. Aurora, Colorado.
   \item What are compositional data and why do I care? (Invited talk, 2020). CU Anschutz Computational Biology seminar series. Aurora, Colorado.
   \item A phylogenetic model for the arrival of species into microbial communities (Invited talk, 2019). NIH NLM Computational Biology Training Conference. Indianapolis, Indiana.
@@ -200,6 +211,7 @@
   \item Comparing spatial distributions of microorganisms using minimal genetic distance. ASM General Meeting 2012 in San Francisco, CA.
 \end{itemize}
 \vspace{3mm}
+\pagebreak
 {\large  \textbf{Peer-Review}}\\
 Journals I've peer-reviewed for are listed on my \href{https://publons.com/researcher/1262170/john-l-darcy/peer-review/}{Publons} profile (slow to update). 
 \\\begin{tabular}{l l l}
@@ -237,8 +249,8 @@ Journals I've peer-reviewed for are listed on my \href{https://publons.com/resea
     Phylogenetics \cite{Darcy2011a,Schmidt2015a,Naff2013}\\
     Multivariate satistical analysis \cite{Darcy640029,Darcy2017,Gendron2019}\\
     Spatial experimental design \cite{Darcy2018a,Darcy2017,Darcy2018}\\
-    Machine learning (current project)\\
-    Genome assembly and metagenome assembly \cite{Darcy2018,Lynch2014}\\
+    Machine learning \cite{Darcy2021,Amend2022}\\
+    Genome assembly and metagenome assembly/analysis \cite{Darcy2018,Lynch2014}\\
     High-throughput sequencing pipelining \cite{Darcy685644,Darcy640029,Darcy2018a}
 
   \end{multicols}\end{adjustwidth}
@@ -249,15 +261,15 @@ Journals I've peer-reviewed for are listed on my \href{https://publons.com/resea
   \hline
   R & (expert) & \href{https://github.com/darcyj/specificity}{github.com/darcyj/specificity}\\
   Shell/Bash & (advanced) & \href{https://github.com/darcyj/pd_assemb}{github.com/darcyj/pd\_assemb}\\
+  Python & (advanced) & \href{https://github.com/darcyj/cardpricer}{github.com/darcyj/cardpricer}\\
   C++ & (intermediate) & \href{https://github.com/darcyj/specificity}{github.com/darcyj/specificity}\\ 
-  Python & (intermediate) & \href{https://github.com/darcyj/cardpricer}{github.com/darcyj/cardpricer}\\
   \LaTeX & (beginner) & \href{https://github.com/darcyj/cv}{github.com/darcyj/cv}\\
   HTML+CSS & (beginner) & \href{jldarcy.tk}{jldarcy.tk}\\
 \end{tabular}
 
-%\vspace{3mm}
-\pagebreak
-{\large  \textbf{General Software Knowledge}}
+\vspace{3mm}
+
+{\large  \textbf{General Software Knowledge}}e
   \begin{adjustwidth}{2mm}{}\begin{multicols}{3}
     % column 1:
     Linux system admininstration\\
@@ -330,7 +342,9 @@ Journals I've peer-reviewed for are listed on my \href{https://publons.com/resea
     Various soil analyses
   \end{multicols}\end{adjustwidth}
 
-\vspace{3mm}
+\pagebreak
+
+
 {\large  \textbf{Fieldwork Expertise}}
 \begin{itemize}[noitemsep,topsep=0pt, leftmargin=5mm]
   \item Sample collection in extreme conditions at high altitude (\textgreater6000 masl).
@@ -359,8 +373,6 @@ Journals I've peer-reviewed for are listed on my \href{https://publons.com/resea
     \caption{With my labmate Lara amongst penitentes on the stratovolcano Llullaillaco in the Chilean Andes.}
     \end{minipage}
 \end{figure}
-
-
 
 
 \end{document}
