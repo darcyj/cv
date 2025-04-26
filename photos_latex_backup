@@ -1,0 +1,15 @@
+\pagebreak
+
+\captionsetup[figure]{labelformat=empty} % gets rid of "Figure 1" in captions
+{\large  \textbf{Photos}}
+\begin{figure}[H]
+  \begin{minipage}{0.47\textwidth}
+    \includegraphics[width=\linewidth]{pix/at_canada_term_2016.jpg}
+    \caption{Standing at the terminus of the Canada Glacier in the McMurdo Dry Valleys, Antarctica.}
+    \end{minipage}
+  \hspace{\fill} % note: no blank line here
+  \begin{minipage}{0.47\textwidth}
+    \includegraphics[width=\linewidth]{pix/penitentes_2016.jpg}
+    \caption{With my labmate Lara amongst penitentes on the stratovolcano Llullaillaco in the Chilean Andes.}
+    \end{minipage}
+\end{figure}

@@ -774,16 +774,6 @@ INPUT /usr/share/texlive/texmf-dist/tex/latex/base/omlcmr.fd
 INPUT /usr/share/texlive/texmf-dist/tex/latex/base/omlcmr.fd
 INPUT /usr/share/texlive/texmf-dist/tex/latex/base/omlcmr.fd
 INPUT /usr/share/texlive/texmf-dist/tex/latex/base/omlcmr.fd
-INPUT ./pix/at_canada_term_2016.jpg
-INPUT ./pix/at_canada_term_2016.jpg
-INPUT pix/at_canada_term_2016.jpg
-INPUT ./pix/at_canada_term_2016.jpg
-INPUT ./pix/at_canada_term_2016.jpg
-INPUT ./pix/penitentes_2016.jpg
-INPUT ./pix/penitentes_2016.jpg
-INPUT pix/penitentes_2016.jpg
-INPUT ./pix/penitentes_2016.jpg
-INPUT ./pix/penitentes_2016.jpg
 INPUT jld_cv.aux
 INPUT ./jld_cv.out
 INPUT ./jld_cv.out
