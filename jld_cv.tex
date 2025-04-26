@@ -27,7 +27,7 @@
     linkcolor    = blue, %Colour of internal links
     citecolor    = black %Colour of citations
   }
-  \usepackage[backend=biber, style=numeric-comp, maxbibnames=99, sorting=ydnt, giveninits, terseinits]{biblatex} % note 'giveninits' replaces 'firstinits' for some stupid reason
+  \usepackage[backend=biber, style=numeric-comp, sorting=ydnt, defernumbers=true, giveninits, terseinits]{biblatex} % note 'giveninits' replaces 'firstinits' for some stupid reason
   \renewbibmacro{in:}{} % removes "in:" before journal names
   \addbibresource{allrefs.bib}
   %
@@ -61,8 +61,10 @@
   % this defines yen symbol as \yen : yen mark (taken from ascmac.sty for jlatex)
   \def\yen{{\setbox0=\hbox{Y}Y\kern-.97\wd0\vbox{\hrule height.1ex
   width.98\wd0\kern.33ex\hrule height.1ex width.98\wd0\kern.45ex}}}
-  % actually begin document
-  \begin{document}
+
+
+% actually begin document
+\begin{document}
 
 %\centerline{\Huge\center\textbf{John L. Darcy, PhD}}
 {\Huge \textbf{John L. Darcy, PhD}}
@@ -127,14 +129,16 @@
   \end{itemize}
 \end{adjustwidth}
 
+
+% first author citations - found in allrefs.bib tagged with keywords = {firstauthor}
 % first author citations - found in allrefs.bib tagged with keywords = {firstauthor}
 \vspace{2mm}
 {\large  \textbf{First-Author Publications}}\space\emph{(incl.\ equal contribution of first two authors)}
 \vspace{-1em}\vspace{1mm}
 \begingroup
-	\setlength\bibitemsep{0pt}
-	\nocite{*}
-	\printbibliography[keyword=firstauthor, heading=none]
+  \setlength\bibitemsep{0pt}
+  \nocite{*}
+  \printbibliography[keyword=firstauthor, heading=none]
 \endgroup
 % coauthor citations - found in allrefs.bib tagged with keywords = {coauthor}
 \vspace{-1em}\vspace{3mm}
@@ -145,6 +149,7 @@
   \nocite{*}
   \printbibliography[keyword=coauthor, heading=none]
 \endgroup
+
 %
 \vspace{0.5em}
 %
